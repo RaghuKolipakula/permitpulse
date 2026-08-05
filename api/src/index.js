@@ -22,21 +22,30 @@ export default {
         let parcelAreaSqFt = 0;
         let matchedAddress = "Not Found";
 
-        // Query the Frisco GIS REST API (Simulated with deterministic mock due to 404 on live API)
+        // Query the real Collin CAD (CCAD) GIS REST API
         if (address && address.trim() !== '') {
           // Normalize input
           const searchAddr = address.toUpperCase().trim();
-          matchedAddress = searchAddr + " (FRISCO, TX)";
-          
-          // Generate deterministic lot size based on address string hash
-          let hash = 0;
-          for (let i = 0; i < searchAddr.length; i++) {
-            hash = ((hash << 5) - hash) + searchAddr.charCodeAt(i);
-            hash |= 0;
+          const arcGisUrl = new URL('https://services2.arcgis.com/uXyoacYrZTPTKD3R/arcgis/rest/services/CCAD_Parcel_Feature_Set/FeatureServer/4/query');
+          arcGisUrl.searchParams.append('where', `situsConcat LIKE '%${searchAddr}%'`);
+          arcGisUrl.searchParams.append('outFields', 'situsConcat,landSizeSqft,landSizeAcres');
+          arcGisUrl.searchParams.append('f', 'json');
+          arcGisUrl.searchParams.append('resultRecordCount', '1');
+
+          const gisResponse = await fetch(arcGisUrl.toString());
+          if (gisResponse.ok) {
+            const data = await gisResponse.json();
+            if (data.features && data.features.length > 0) {
+              const feature = data.features[0];
+              matchedAddress = feature.attributes.situsConcat || address;
+              
+              if (feature.attributes.landSizeSqft) {
+                parcelAreaSqFt = parseFloat(feature.attributes.landSizeSqft);
+              } else if (feature.attributes.landSizeAcres) {
+                parcelAreaSqFt = parseFloat(feature.attributes.landSizeAcres) * 43560;
+              }
+            }
           }
-          const minArea = 7500;
-          const maxArea = 22000;
-          parcelAreaSqFt = minArea + (Math.abs(hash) % (maxArea - minArea + 1));
         }
 
         // If we didn't find anything or empty address, fallback to a standard lot size
