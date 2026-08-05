@@ -18,48 +18,34 @@ export default function SetbackCalculator() {
     // But since the worker is built, ideally we'd fetch from it. 
     // Here we'll simulate the worker logic locally directly if the fetch fails.
     try {
-      const pArea = 10000; // default
-      const sArea = parseFloat(formData.primaryStructureArea) || 0;
-      const dArea = parseFloat(formData.drivewayArea) || 0;
-      let matchedAddress = "Not Found";
-      let finalArea = pArea;
+      // Call the deployed Cloudflare Worker API
+      const response = await fetch('https://permitpulse.kolipakula.workers.dev/api/calculate', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          address: formData.address,
+          primaryStructureArea: formData.primaryStructureArea,
+          drivewayArea: formData.drivewayArea
+        })
+      });
 
-      // Make direct API call to Frisco GIS for prototype if no local worker
-      const searchAddr = formData.address.toUpperCase().trim();
-      const arcGisUrl = new URL('https://maps.friscotexas.gov/arcgis/rest/services/Public/FriscoData/MapServer/3/query');
-      arcGisUrl.searchParams.append('where', `SITE_ADDR LIKE '%${searchAddr}%'`);
-      arcGisUrl.searchParams.append('outFields', '*');
-      arcGisUrl.searchParams.append('f', 'json');
-
-      const gisResponse = await fetch(arcGisUrl.toString());
-      if (gisResponse.ok) {
-        const data = await gisResponse.json();
-        if (data.features && data.features.length > 0) {
-          const feature = data.features[0];
-          matchedAddress = feature.attributes.SITE_ADDR || formData.address;
-          let acres = feature.attributes.ACREAGE || feature.attributes.Acres || feature.attributes.ACRES;
-          if (acres) {
-            finalArea = parseFloat(acres) * 43560;
-          } else if (feature.attributes["Shape.STArea()"]) {
-            finalArea = feature.attributes["Shape.STArea()"];
-          }
-        }
+      if (!response.ok) {
+        throw new Error('Failed to fetch from API');
       }
 
-      const maxImp = Math.round(finalArea * 0.5);
-      const currentImp = sArea + dArea;
-      const avail = maxImp - currentImp;
+      const data = await response.json();
       
+      if (data.error) {
+        throw new Error(data.error);
+      }
+
       setResult({
-        matchedAddress: matchedAddress !== "Not Found" ? matchedAddress : "Using default lot size",
-        parcelAreaSqFt: Math.round(finalArea),
-        setbacks: { front: 25, rear: 15, side: 7 },
-        imperviousCover: {
-          max: maxImp,
-          current: currentImp,
-          available: avail > 0 ? avail : 0,
-          status: avail >= 0 ? 'Compliant' : 'Exceeds Limits'
-        }
+        matchedAddress: data.matchedAddress !== "Not Found" ? data.matchedAddress : "Using default lot size",
+        parcelAreaSqFt: data.parcelAreaSqFt,
+        setbacks: data.setbacks,
+        imperviousCover: data.imperviousCover
       });
     } catch (e) {
       console.error(e);
