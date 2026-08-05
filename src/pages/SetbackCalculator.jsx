@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Calculator, MapPin, CheckCircle } from 'lucide-react';
+import React, { useState, useEffect } from 'react';
+import { Calculator, MapPin, CheckCircle, Loader2 } from 'lucide-react';
 
 export default function SetbackCalculator() {
   const [formData, setFormData] = useState({
@@ -9,6 +9,35 @@ export default function SetbackCalculator() {
   });
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
+  const [lookupLoading, setLookupLoading] = useState(false);
+
+  useEffect(() => {
+    const address = formData.address;
+    if (address.length < 5) return;
+
+    const timeoutId = setTimeout(async () => {
+      try {
+        setLookupLoading(true);
+        const res = await fetch(`https://permitpulse.kolipakula.workers.dev/api/lookup?address=${encodeURIComponent(address)}`);
+        if (res.ok) {
+          const data = await res.json();
+          if (data.found && data.primaryStructureArea) {
+            setFormData(prev => ({
+              ...prev,
+              // Only overwrite if it's currently empty, to avoid annoying the user if they typed something manually
+              primaryStructureArea: prev.primaryStructureArea || data.primaryStructureArea
+            }));
+          }
+        }
+      } catch (e) {
+        console.error("Lookup failed:", e);
+      } finally {
+        setLookupLoading(false);
+      }
+    }, 1000);
+
+    return () => clearTimeout(timeoutId);
+  }, [formData.address]);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -77,6 +106,7 @@ export default function SetbackCalculator() {
                   onChange={e => setFormData({...formData, address: e.target.value})}
                   required
                 />
+                {lookupLoading && <Loader2 size={16} className="animate-spin" style={{ margin: '0 12px', color: 'var(--color-primary)' }} />}
               </div>
             </div>
             <div className="input-group">
