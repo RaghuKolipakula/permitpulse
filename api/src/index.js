@@ -14,6 +14,60 @@ export default {
       return new Response(null, { headers: corsHeaders });
     }
 
+    if (url.pathname === '/api/permits' && request.method === 'GET') {
+      try {
+        if (!env.DB) {
+          return new Response(JSON.stringify({ error: "Database not configured" }), { status: 500, headers: corsHeaders });
+        }
+        const { results } = await env.DB.prepare("SELECT * FROM permits ORDER BY created_at DESC").all();
+        return new Response(JSON.stringify(results), { headers: { ...corsHeaders, "Content-Type": "application/json" } });
+      } catch (e) {
+        return new Response(JSON.stringify({ error: e.message }), { status: 500, headers: corsHeaders });
+      }
+    }
+
+    if (url.pathname === '/api/seed' && request.method === 'GET') {
+      try {
+        if (!env.DB) {
+          return new Response(JSON.stringify({ error: "Database not configured" }), { status: 500, headers: corsHeaders });
+        }
+        
+        const arcGisUrl = new URL('https://services2.arcgis.com/uXyoacYrZTPTKD3R/arcgis/rest/services/CCAD_Parcel_Feature_Set/FeatureServer/4/query');
+        arcGisUrl.searchParams.append('where', `situsZip = '75035'`);
+        arcGisUrl.searchParams.append('outFields', 'situsConcat,legalAbsSubName');
+        arcGisUrl.searchParams.append('f', 'json');
+        arcGisUrl.searchParams.append('resultRecordCount', '15');
+
+        const res = await fetch(arcGisUrl.toString());
+        const data = await res.json();
+        
+        const statuses = ['Approved', 'Pending Review', 'Needs Revision'];
+        const insertPromises = [];
+
+        if (data.features) {
+          for (let i = 0; i < data.features.length; i++) {
+            const feature = data.features[i];
+            const address = feature.attributes.situsConcat || 'Unknown Address';
+            const hoa = feature.attributes.legalAbsSubName || 'Unknown HOA';
+            const status = statuses[i % statuses.length];
+            const days = Math.floor(Math.random() * 20) + 1;
+            const id = `PMT-2024-${100 + i}`;
+            
+            insertPromises.push(
+              env.DB.prepare("INSERT OR REPLACE INTO permits (id, address, status, hoa, days) VALUES (?, ?, ?, ?, ?)")
+                .bind(id, address, status, hoa, days)
+                .run()
+            );
+          }
+          await Promise.all(insertPromises);
+        }
+        
+        return new Response(JSON.stringify({ success: true, message: `Seeded ${insertPromises.length} permits` }), { headers: { ...corsHeaders, "Content-Type": "application/json" } });
+      } catch (e) {
+        return new Response(JSON.stringify({ error: e.message }), { status: 500, headers: corsHeaders });
+      }
+    }
+
     if (url.pathname === '/api/calculate' && request.method === 'POST') {
       try {
         const body = await request.json();

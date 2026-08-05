@@ -1,3 +1,8 @@
 name = "permitpulse"
 main = "src/index.js"
 compatibility_date = "2024-03-20"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "permitpulse-db"
+database_id = "63939db2-208d-4ea1-bea6-5e7e5cc70c77"

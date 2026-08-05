@@ -1,12 +1,37 @@
-import React from 'react';
-import { FileWarning, CheckCircle, Clock } from 'lucide-react';
+import React, { useState, useEffect } from 'react';
+import { FileWarning, CheckCircle, Clock, Loader2 } from 'lucide-react';
 
 export default function Dashboard() {
-  const permits = [
-    { id: 'PMT-2024-089', address: '123 Starwood Dr', status: 'Pending Review', hoa: 'Starwood', days: 12 },
-    { id: 'PMT-2024-090', address: '456 Newman Blvd', status: 'Approved', hoa: 'Newman Village', days: 2 },
-    { id: 'PMT-2024-092', address: '789 Creek Rd', status: 'Needs Revision', hoa: 'Phillips Creek', days: 14 },
-  ];
+  const [permits, setPermits] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    async function loadData() {
+      try {
+        const res = await fetch('https://permitpulse.kolipakula.workers.dev/api/permits');
+        let data = await res.json();
+
+        // Auto-seed if the database is empty (for demo purposes)
+        if (data && data.length === 0) {
+          console.log("Database empty, calling seed API...");
+          await fetch('https://permitpulse.kolipakula.workers.dev/api/seed');
+          const refetch = await fetch('https://permitpulse.kolipakula.workers.dev/api/permits');
+          data = await refetch.json();
+        }
+
+        setPermits(data || []);
+      } catch (e) {
+        console.error("Failed to load permits", e);
+      } finally {
+        setLoading(false);
+      }
+    }
+    loadData();
+  }, []);
+
+  const activeCount = permits.length;
+  const approvedCount = permits.filter(p => p.status === 'Approved').length;
+  const revisionCount = permits.filter(p => p.status === 'Needs Revision').length;
 
   return (
     <div>
@@ -19,21 +44,21 @@ export default function Dashboard() {
         <div className="glass-panel items-center flex justify-between">
           <div>
             <p className="text-muted" style={{fontSize: '0.875rem', marginBottom: '4px'}}>Active Permits</p>
-            <h3>14</h3>
+            <h3>{loading ? <Loader2 className="animate-spin" /> : activeCount}</h3>
           </div>
           <div style={{color: 'var(--color-primary)'}}><Clock size={32} /></div>
         </div>
         <div className="glass-panel items-center flex justify-between">
           <div>
             <p className="text-muted" style={{fontSize: '0.875rem', marginBottom: '4px'}}>Approved This Month</p>
-            <h3>8</h3>
+            <h3>{loading ? <Loader2 className="animate-spin" /> : approvedCount}</h3>
           </div>
           <div style={{color: '#16a34a'}}><CheckCircle size={32} /></div>
         </div>
         <div className="glass-panel items-center flex justify-between">
           <div>
             <p className="text-muted" style={{fontSize: '0.875rem', marginBottom: '4px'}}>Needs Revision</p>
-            <h3>2</h3>
+            <h3>{loading ? <Loader2 className="animate-spin" /> : revisionCount}</h3>
           </div>
           <div style={{color: '#ea580c'}}><FileWarning size={32} /></div>
         </div>
@@ -54,7 +79,9 @@ export default function Dashboard() {
             </tr>
           </thead>
           <tbody>
-            {permits.map(permit => (
+            {loading ? (
+              <tr><td colSpan="5" style={{ padding: '16px', textAlign: 'center' }}><Loader2 className="animate-spin mx-auto" /></td></tr>
+            ) : permits.map(permit => (
               <tr key={permit.id} style={{ borderBottom: '1px solid rgba(100, 116, 139, 0.1)' }}>
                 <td style={{ padding: '16px 8px', fontWeight: '500' }}>{permit.id}</td>
                 <td style={{ padding: '16px 8px' }}>{permit.address}</td>
@@ -70,6 +97,9 @@ export default function Dashboard() {
                 </td>
               </tr>
             ))}
+            {!loading && permits.length === 0 && (
+              <tr><td colSpan="5" style={{ padding: '16px', textAlign: 'center' }}>No active permits found.</td></tr>
+            )}
           </tbody>
         </table>
       </div>
