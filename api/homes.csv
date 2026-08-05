@@ -1,0 +1,1201 @@
+Property_ID,Address,City,State,Zip_Code,Community,Bedrooms,Bathrooms,Square_Feet,Lot_Size_Acres,Year_Built,Estimated_Value_USD
+LC-1001,10508 Wintergreen Dr,Frisco,TX,75035,Lexington Country,5,4.0,4200,0.2,2018,1146000
+LC-1002,10505 Wintergreen Dr,Frisco,TX,75035,Lexington Country,5,5.0,4052,0.17,2018,1109000
+LC-1003,10490 Wintergreen Dr,Frisco,TX,75035,Lexington Country,4,4.5,3993,0.17,2018,1111000
+LC-1004,13299 Azra Trail,Frisco,TX,75035,Lexington Country,5,4.5,4100,0.18,2020,1049000
+LC-1005,13104 Azra Trail,Frisco,TX,75035,Lexington Country,5,4.5,3964,0.22,2020,1036000
+LC-1006,13032 Azra Trail,Frisco,TX,75035,Lexington Country,5,4.5,3905,0.17,2020,1016000
+LC-1007,13244 Box Elder Ln,Frisco,TX,75035,Lexington Country,5,3.0,2801,0.19,2019,773000
+LC-1008,12901 Bold Ruler Way,Frisco,TX,75035,Lexington Country,5,5.5,3740,0.26,2016,1087000
+LC-1009,15551 Jonata St,Frisco,TX,75035,Lexington Country,5,3.5,5925,0.28,2018,1617000
+LC-1010,15746 Real Quiet Dr,Frisco,TX,75035,Lexington Country,3,3.5,4220,0.27,2021,1217000
+LC-1011,13668 Funny Cide St,Frisco,TX,75035,Lexington Country,5,3.5,5181,0.32,2017,1512000
+LC-1012,12419 Whirlaway Dr,Frisco,TX,75035,Lexington Country,5,4.0,5604,0.24,2016,1709000
+LC-1013,13997 Secretariat Way,Frisco,TX,75035,Lexington Country,3,4.0,4443,0.19,2021,1201000
+LC-1014,11958 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,4,3.5,4826,0.33,2021,1397000
+LC-1015,15742 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,4.0,5675,0.21,2022,1657000
+LC-1016,12794 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,3,3.5,5062,0.2,2016,1602000
+LC-1017,11913 Azra Trail,Frisco,TX,75035,Lexington Country,6,4.0,5238,0.22,2021,1590000
+LC-1018,11395 Azra Trail,Frisco,TX,75035,Lexington Country,4,3.5,4736,0.31,2022,1191000
+LC-1019,12434 Spectacular Bid St,Frisco,TX,75035,Lexington Country,4,5.5,3456,0.32,2016,944000
+LC-1020,11602 Nashua Dr,Frisco,TX,75035,Lexington Country,4,3.5,5250,0.19,2019,1551000
+LC-1021,10104 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,4,3.5,5822,0.35,2017,1760000
+LC-1022,14130 Silver Charm Ave,Frisco,TX,75035,Lexington Country,5,3.0,3209,0.31,2018,985000
+LC-1023,12939 Wintergreen Dr,Frisco,TX,75035,Lexington Country,4,5.0,5430,0.22,2021,1542000
+LC-1024,15500 American Pharoah Way,Frisco,TX,75035,Lexington Country,4,4.0,5313,0.22,2016,1512000
+LC-1025,14630 Wells Branch,Frisco,TX,75035,Lexington Country,5,3.5,4068,0.21,2022,1049000
+LC-1026,14517 Secretariat Way,Frisco,TX,75035,Lexington Country,6,4.5,4520,0.23,2021,1188000
+LC-1027,15980 Justify Ln,Frisco,TX,75035,Lexington Country,6,4.5,5828,0.29,2021,1499000
+LC-1028,13721 Pensive Ave,Frisco,TX,75035,Lexington Country,4,5.0,4420,0.2,2016,1303000
+LC-1029,10321 Lexington Ave,Frisco,TX,75035,Lexington Country,5,4.0,5119,0.22,2017,1568000
+LC-1030,12811 Count Fleet Dr,Frisco,TX,75035,Lexington Country,5,4.0,4410,0.18,2018,1156000
+LC-1031,14884 Proud Clairon St,Frisco,TX,75035,Lexington Country,5,4.5,4363,0.22,2017,1183000
+LC-1032,13802 American Pharoah Way,Frisco,TX,75035,Lexington Country,5,4.0,2872,0.34,2017,875000
+LC-1033,11004 Justify Ln,Frisco,TX,75035,Lexington Country,4,3.0,3360,0.19,2019,970000
+LC-1034,11747 Gallahadion St,Frisco,TX,75035,Lexington Country,5,4.5,3545,0.27,2018,965000
+LC-1035,15200 Justify Ln,Frisco,TX,75035,Lexington Country,5,3.5,3798,0.25,2020,970000
+LC-1036,11337 Omaha St,Frisco,TX,75035,Lexington Country,5,3.0,4272,0.23,2020,1287000
+LC-1037,11337 Bold Ruler Way,Frisco,TX,75035,Lexington Country,4,5.5,4918,0.25,2021,1501000
+LC-1038,14498 Spectacular Bid St,Frisco,TX,75035,Lexington Country,6,5.0,4226,0.31,2022,1124000
+LC-1039,10008 Real Quiet Dr,Frisco,TX,75035,Lexington Country,4,5.0,3663,0.22,2020,983000
+LC-1040,14496 Silver Charm St,Frisco,TX,75035,Lexington Country,4,5.0,3405,0.16,2021,996000
+LC-1041,15065 Kaufai St,Frisco,TX,75035,Lexington Country,5,5.5,6000,0.34,2018,1818000
+LC-1042,10366 Bally Ache Ln,Frisco,TX,75035,Lexington Country,5,4.0,5584,0.22,2016,1728000
+LC-1043,12130 Count Fleet Dr,Frisco,TX,75035,Lexington Country,3,3.5,5353,0.31,2019,1532000
+LC-1044,11922 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,4.0,5035,0.19,2016,1396000
+LC-1045,14542 Sir Barton Ave,Frisco,TX,75035,Lexington Country,5,4.0,5900,0.33,2022,1514000
+LC-1046,15617 Seattle Slew St,Frisco,TX,75035,Lexington Country,4,5.5,3714,0.21,2018,1130000
+LC-1047,12628 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,3.0,4057,0.2,2022,1197000
+LC-1048,10153 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,5,4.0,5278,0.16,2019,1333000
+LC-1049,13606 Count Fleet Dr,Frisco,TX,75035,Lexington Country,3,5.0,5317,0.28,2017,1339000
+LC-1050,15910 Wintergreen Dr,Frisco,TX,75035,Lexington Country,6,3.5,3947,0.32,2020,989000
+LC-1051,12256 Lexington Ave,Frisco,TX,75035,Lexington Country,4,4.0,4167,0.34,2023,1297000
+LC-1052,11343 Smarty Jones Way,Frisco,TX,75035,Lexington Country,3,4.5,4676,0.31,2023,1481000
+LC-1053,14315 Majestic Prince St,Frisco,TX,75035,Lexington Country,5,4.5,3756,0.17,2019,1155000
+LC-1054,12564 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,5.0,3917,0.19,2016,1178000
+LC-1055,10325 Sir Barton Ave,Frisco,TX,75035,Lexington Country,5,3.5,4935,0.22,2023,1392000
+LC-1056,15317 Funny Cide St,Frisco,TX,75035,Lexington Country,5,3.0,3594,0.24,2020,941000
+LC-1057,10893 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,5,5.0,4675,0.32,2019,1273000
+LC-1058,10133 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,5,3.5,4160,0.21,2018,1212000
+LC-1059,12488 Cavalcade St,Frisco,TX,75035,Lexington Country,5,3.5,3046,0.25,2022,817000
+LC-1060,14862 Kaufai St,Frisco,TX,75035,Lexington Country,5,4.5,5972,0.31,2020,1609000
+LC-1061,14054 Bally Ache Ln,Frisco,TX,75035,Lexington Country,5,5.0,5430,0.22,2016,1711000
+LC-1062,10978 Omaha St,Frisco,TX,75035,Lexington Country,4,3.5,4624,0.25,2020,1162000
+LC-1063,14121 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,5,5.0,3159,0.3,2023,884000
+LC-1064,10438 Justify Ln,Frisco,TX,75035,Lexington Country,4,5.0,5245,0.28,2023,1499000
+LC-1065,12568 Kaufai St,Frisco,TX,75035,Lexington Country,4,3.0,5237,0.31,2020,1578000
+LC-1066,12525 Nashua Dr,Frisco,TX,75035,Lexington Country,4,4.5,5504,0.32,2016,1426000
+LC-1067,12073 Proud Clairon St,Frisco,TX,75035,Lexington Country,5,4.0,5548,0.25,2023,1389000
+LC-1068,15714 War Admiral Ave,Frisco,TX,75035,Lexington Country,4,4.0,4292,0.23,2019,1303000
+LC-1069,11089 Smarty Jones Way,Frisco,TX,75035,Lexington Country,5,4.0,4654,0.3,2022,1420000
+LC-1070,15151 Justify Ln,Frisco,TX,75035,Lexington Country,5,3.5,5415,0.28,2017,1617000
+LC-1071,13666 Assault St,Frisco,TX,75035,Lexington Country,6,5.0,3257,0.32,2023,890000
+LC-1072,13735 Alydar Ave,Frisco,TX,75035,Lexington Country,3,3.0,4931,0.3,2023,1545000
+LC-1073,11380 Box Elder Ln,Frisco,TX,75035,Lexington Country,5,5.5,5198,0.16,2020,1470000
+LC-1074,14403 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,3,5.5,5280,0.17,2021,1686000
+LC-1075,13514 Alydar Ave,Frisco,TX,75035,Lexington Country,5,5.0,4979,0.3,2017,1479000
+LC-1076,14850 Secretariat Way,Frisco,TX,75035,Lexington Country,6,3.5,2943,0.28,2017,747000
+LC-1077,13427 Majestic Prince St,Frisco,TX,75035,Lexington Country,4,4.5,3746,0.32,2017,944000
+LC-1078,10075 Kaufai St,Frisco,TX,75035,Lexington Country,5,3.0,4919,0.31,2020,1408000
+LC-1079,15865 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,4,5.0,5065,0.19,2018,1358000
+LC-1080,14654 Azra Trail,Frisco,TX,75035,Lexington Country,6,4.0,5870,0.23,2020,1561000
+LC-1081,15178 Omaha St,Frisco,TX,75035,Lexington Country,4,4.0,3621,0.19,2022,1037000
+LC-1082,12668 Funny Cide St,Frisco,TX,75035,Lexington Country,6,4.0,3752,0.27,2020,1018000
+LC-1083,13900 Sir Barton Ave,Frisco,TX,75035,Lexington Country,5,5.0,2934,0.31,2018,834000
+LC-1084,13931 Proud Clairon St,Frisco,TX,75035,Lexington Country,6,4.0,3934,0.25,2016,1005000
+LC-1085,10269 Pensive Ave,Frisco,TX,75035,Lexington Country,3,5.0,4957,0.23,2019,1452000
+LC-1086,11696 Alydar Ave,Frisco,TX,75035,Lexington Country,6,5.0,3651,0.23,2023,991000
+LC-1087,11409 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,4.0,5480,0.27,2019,1736000
+LC-1088,14549 Silver Charm St,Frisco,TX,75035,Lexington Country,6,4.0,5262,0.27,2018,1404000
+LC-1089,11904 Seattle Slew St,Frisco,TX,75035,Lexington Country,6,4.5,5147,0.19,2016,1635000
+LC-1090,11037 Spectacular Bid St,Frisco,TX,75035,Lexington Country,5,5.5,5913,0.21,2016,1644000
+LC-1091,14265 Omaha St,Frisco,TX,75035,Lexington Country,4,4.5,3998,0.18,2019,1124000
+LC-1092,15166 Smarty Jones Way,Frisco,TX,75035,Lexington Country,4,5.0,3531,0.22,2018,1045000
+LC-1093,10262 Jonata St,Frisco,TX,75035,Lexington Country,3,4.5,5396,0.31,2020,1641000
+LC-1094,11197 Real Quiet Dr,Frisco,TX,75035,Lexington Country,3,3.5,3057,0.18,2017,767000
+LC-1095,15210 Funny Cide St,Frisco,TX,75035,Lexington Country,5,4.5,5394,0.26,2018,1432000
+LC-1096,12461 Tim Tam Dr,Frisco,TX,75035,Lexington Country,4,5.0,5204,0.34,2022,1554000
+LC-1097,11938 Seattle Slew St,Frisco,TX,75035,Lexington Country,5,3.5,3903,0.24,2016,1189000
+LC-1098,10619 Silver Charm St,Frisco,TX,75035,Lexington Country,3,4.5,3501,0.22,2019,912000
+LC-1099,15436 Deer Trail,Frisco,TX,75035,Lexington Country,5,4.5,5767,0.28,2022,1484000
+LC-1100,12343 Secretariat Way,Frisco,TX,75035,Lexington Country,4,4.5,4946,0.24,2022,1418000
+LC-1101,13214 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,4.5,4863,0.17,2020,1406000
+LC-1102,13296 Real Quiet Dr,Frisco,TX,75035,Lexington Country,6,3.0,2968,0.33,2021,926000
+LC-1103,10860 Bold Ruler Way,Frisco,TX,75035,Lexington Country,6,3.5,3099,0.18,2019,964000
+LC-1104,12924 Whirlaway Dr,Frisco,TX,75035,Lexington Country,4,5.0,5858,0.32,2023,1549000
+LC-1105,14783 Lexington Ave,Frisco,TX,75035,Lexington Country,6,4.5,3976,0.26,2018,1196000
+LC-1106,14666 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,4,4.0,4470,0.16,2020,1283000
+LC-1107,12919 Bally Ache Ln,Frisco,TX,75035,Lexington Country,5,5.5,5751,0.27,2023,1761000
+LC-1108,15804 Spectacular Bid St,Frisco,TX,75035,Lexington Country,5,5.0,4934,0.32,2022,1493000
+LC-1109,14704 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,3,3.5,3505,0.18,2018,977000
+LC-1110,13227 Azra Trail,Frisco,TX,75035,Lexington Country,5,4.5,5259,0.22,2020,1577000
+LC-1111,13917 Omaha St,Frisco,TX,75035,Lexington Country,5,5.0,5873,0.23,2018,1523000
+LC-1112,15036 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,5,3.0,4763,0.34,2019,1493000
+LC-1113,11329 Swaps Dr,Frisco,TX,75035,Lexington Country,5,5.0,4538,0.27,2022,1164000
+LC-1114,14823 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,6,4.0,5276,0.17,2023,1398000
+LC-1115,15682 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,4,4.0,4403,0.33,2023,1337000
+LC-1116,14003 Kaufai St,Frisco,TX,75035,Lexington Country,4,5.0,5982,0.19,2017,1576000
+LC-1117,14105 War Admiral Ave,Frisco,TX,75035,Lexington Country,4,4.0,4993,0.34,2021,1288000
+LC-1118,15497 Wintergreen Dr,Frisco,TX,75035,Lexington Country,3,3.5,4195,0.16,2018,1099000
+LC-1119,12595 Assault St,Frisco,TX,75035,Lexington Country,5,4.0,5966,0.32,2023,1649000
+LC-1120,14620 Whirlaway Dr,Frisco,TX,75035,Lexington Country,5,4.0,3992,0.31,2018,1099000
+LC-1121,12921 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,6,3.5,4053,0.32,2019,1107000
+LC-1122,14839 Affirmed Ave,Frisco,TX,75035,Lexington Country,6,4.5,4715,0.25,2017,1398000
+LC-1123,13600 Sir Barton Ave,Frisco,TX,75035,Lexington Country,4,3.5,3173,0.34,2020,900000
+LC-1124,11991 Count Fleet Dr,Frisco,TX,75035,Lexington Country,3,4.0,4342,0.32,2022,1248000
+LC-1125,14158 Nashua Dr,Frisco,TX,75035,Lexington Country,6,4.5,4844,0.27,2023,1475000
+LC-1126,11550 Box Elder Ln,Frisco,TX,75035,Lexington Country,6,5.0,4177,0.19,2016,1210000
+LC-1127,14905 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,4,3.5,3555,0.23,2023,1069000
+LC-1128,11375 War Admiral Ave,Frisco,TX,75035,Lexington Country,6,5.0,5054,0.29,2017,1506000
+LC-1129,11377 Seattle Slew St,Frisco,TX,75035,Lexington Country,5,5.0,4254,0.2,2017,1255000
+LC-1130,14630 Citation Dr,Frisco,TX,75035,Lexington Country,5,5.5,5273,0.18,2020,1341000
+LC-1131,14372 Cavalcade St,Frisco,TX,75035,Lexington Country,4,4.0,5823,0.17,2021,1630000
+LC-1132,13522 Box Elder Ln,Frisco,TX,75035,Lexington Country,3,3.5,4510,0.26,2018,1351000
+LC-1133,14043 Seattle Slew St,Frisco,TX,75035,Lexington Country,5,3.5,3369,0.21,2016,911000
+LC-1134,11738 Swaps Dr,Frisco,TX,75035,Lexington Country,5,3.5,5976,0.22,2016,1760000
+LC-1135,12934 Justify Ln,Frisco,TX,75035,Lexington Country,4,3.5,5301,0.17,2022,1440000
+LC-1136,15801 Bally Ache Ln,Frisco,TX,75035,Lexington Country,6,5.0,3637,0.24,2021,1027000
+LC-1137,11388 Bold Ruler Way,Frisco,TX,75035,Lexington Country,4,5.0,3024,0.23,2023,833000
+LC-1138,13098 Silver Charm Ave,Frisco,TX,75035,Lexington Country,5,4.0,5860,0.23,2019,1557000
+LC-1139,12467 Secretariat Way,Frisco,TX,75035,Lexington Country,3,4.5,3281,0.28,2020,963000
+LC-1140,13386 Tim Tam Dr,Frisco,TX,75035,Lexington Country,3,5.0,3277,0.28,2022,965000
+LC-1141,14483 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,5,5.5,2895,0.23,2021,861000
+LC-1142,10027 Pensive Ave,Frisco,TX,75035,Lexington Country,5,3.0,4968,0.17,2022,1533000
+LC-1143,12015 Omaha St,Frisco,TX,75035,Lexington Country,4,3.5,4200,0.21,2018,1087000
+LC-1144,14159 Alydar Ave,Frisco,TX,75035,Lexington Country,5,3.0,4520,0.34,2017,1325000
+LC-1145,15787 Gallahadion St,Frisco,TX,75035,Lexington Country,4,4.0,5953,0.18,2021,1871000
+LC-1146,14630 Gallahadion St,Frisco,TX,75035,Lexington Country,6,5.0,4338,0.3,2020,1339000
+LC-1147,15810 Sir Barton Ave,Frisco,TX,75035,Lexington Country,4,4.5,5629,0.29,2022,1625000
+LC-1148,13174 Swaps Dr,Frisco,TX,75035,Lexington Country,4,3.5,5645,0.3,2020,1532000
+LC-1149,15135 Whirlaway Dr,Frisco,TX,75035,Lexington Country,4,4.5,3488,0.23,2016,985000
+LC-1150,14268 Alydar Ave,Frisco,TX,75035,Lexington Country,4,3.5,3630,0.22,2022,983000
+LC-1151,14480 Cavalcade St,Frisco,TX,75035,Lexington Country,5,5.0,4140,0.28,2016,1248000
+LC-1152,15451 Bally Ache Ln,Frisco,TX,75035,Lexington Country,6,4.5,5341,0.22,2020,1455000
+LC-1153,12744 Bold Ruler Way,Frisco,TX,75035,Lexington Country,5,3.5,3680,0.26,2021,964000
+LC-1154,10918 Wells Branch,Frisco,TX,75035,Lexington Country,5,5.0,5949,0.27,2017,1549000
+LC-1155,11029 Majestic Prince St,Frisco,TX,75035,Lexington Country,5,5.0,4122,0.18,2023,1035000
+LC-1156,10389 Jonata St,Frisco,TX,75035,Lexington Country,4,4.0,3071,0.23,2017,830000
+LC-1157,11336 Funny Cide St,Frisco,TX,75035,Lexington Country,4,4.5,3479,0.25,2018,1104000
+LC-1158,15892 Sir Barton Ave,Frisco,TX,75035,Lexington Country,5,5.0,4692,0.22,2020,1217000
+LC-1159,11449 Silver Charm St,Frisco,TX,75035,Lexington Country,6,3.5,5336,0.21,2017,1669000
+LC-1160,13623 Real Quiet Dr,Frisco,TX,75035,Lexington Country,4,4.5,5629,0.3,2020,1645000
+LC-1161,10400 Bally Ache Ln,Frisco,TX,75035,Lexington Country,5,3.0,4271,0.3,2023,1187000
+LC-1162,10857 Secretariat Way,Frisco,TX,75035,Lexington Country,5,5.0,3215,0.2,2016,822000
+LC-1163,14893 Sir Barton Ave,Frisco,TX,75035,Lexington Country,4,4.5,3106,0.21,2018,870000
+LC-1164,13863 Lexington Ave,Frisco,TX,75035,Lexington Country,5,4.5,4084,0.3,2019,1044000
+LC-1165,14045 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,3.5,5912,0.33,2021,1820000
+LC-1166,13179 War Admiral Ave,Frisco,TX,75035,Lexington Country,5,4.5,3704,0.2,2019,1114000
+LC-1167,13169 Jonata St,Frisco,TX,75035,Lexington Country,5,5.0,2968,0.26,2017,853000
+LC-1168,14281 Citation Dr,Frisco,TX,75035,Lexington Country,5,5.5,5702,0.33,2017,1550000
+LC-1169,11069 Seattle Slew St,Frisco,TX,75035,Lexington Country,6,5.0,3003,0.28,2019,832000
+LC-1170,14847 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,4.5,4495,0.29,2020,1211000
+LC-1171,15014 Tim Tam Dr,Frisco,TX,75035,Lexington Country,4,4.5,5199,0.27,2016,1552000
+LC-1172,13182 Box Elder Ln,Frisco,TX,75035,Lexington Country,3,3.5,4691,0.17,2020,1219000
+LC-1173,14961 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,4,3.5,5087,0.31,2016,1327000
+LC-1174,10865 Bold Ruler Way,Frisco,TX,75035,Lexington Country,4,4.0,2860,0.22,2019,883000
+LC-1175,11565 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,3,4.5,5946,0.21,2022,1743000
+LC-1176,12891 Kaufai St,Frisco,TX,75035,Lexington Country,5,3.5,4505,0.18,2023,1374000
+LC-1177,15064 Bally Ache Ln,Frisco,TX,75035,Lexington Country,4,4.5,4561,0.24,2016,1444000
+LC-1178,15137 Real Quiet Dr,Frisco,TX,75035,Lexington Country,4,3.5,3609,0.18,2021,1122000
+LC-1179,13201 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,4,5.5,4335,0.34,2017,1132000
+LC-1180,12758 Pensive Ave,Frisco,TX,75035,Lexington Country,3,4.0,5480,0.3,2018,1547000
+LC-1181,12178 Wells Branch,Frisco,TX,75035,Lexington Country,3,5.5,5341,0.3,2021,1407000
+LC-1182,15707 Nashua Dr,Frisco,TX,75035,Lexington Country,5,4.5,4301,0.28,2020,1189000
+LC-1183,10248 Wintergreen Dr,Frisco,TX,75035,Lexington Country,4,4.0,3239,0.27,2018,927000
+LC-1184,10178 Jonata St,Frisco,TX,75035,Lexington Country,5,3.5,4277,0.27,2019,1107000
+LC-1185,13520 Kaufai St,Frisco,TX,75035,Lexington Country,5,4.5,4583,0.17,2020,1444000
+LC-1186,15739 Kaufai St,Frisco,TX,75035,Lexington Country,5,3.5,5853,0.29,2020,1497000
+LC-1187,14450 Majestic Prince St,Frisco,TX,75035,Lexington Country,6,4.5,5111,0.34,2019,1506000
+LC-1188,15627 Box Elder Ln,Frisco,TX,75035,Lexington Country,5,4.0,3821,0.35,2022,1179000
+LC-1189,13687 Bold Ruler Way,Frisco,TX,75035,Lexington Country,5,5.0,3062,0.2,2017,926000
+LC-1190,15175 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,5,4.0,4394,0.19,2022,1380000
+LC-1191,10264 Wells Branch,Frisco,TX,75035,Lexington Country,5,4.5,4102,0.19,2022,1152000
+LC-1192,12873 Azra Trail,Frisco,TX,75035,Lexington Country,3,5.0,3641,0.32,2022,1069000
+LC-1193,12054 Whirlaway Dr,Frisco,TX,75035,Lexington Country,4,5.0,4590,0.23,2019,1233000
+LC-1194,11836 Deer Trail,Frisco,TX,75035,Lexington Country,5,5.0,2871,0.19,2021,914000
+LC-1195,13535 Smarty Jones Way,Frisco,TX,75035,Lexington Country,6,4.5,5799,0.3,2019,1746000
+LC-1196,15804 Kaufai St,Frisco,TX,75035,Lexington Country,5,5.5,5426,0.28,2016,1513000
+LC-1197,11282 Proud Clairon St,Frisco,TX,75035,Lexington Country,3,3.5,5327,0.34,2017,1413000
+LC-1198,15670 Bally Ache Ln,Frisco,TX,75035,Lexington Country,6,5.0,4275,0.18,2023,1223000
+LC-1199,12206 Omaha St,Frisco,TX,75035,Lexington Country,5,3.5,4415,0.34,2018,1206000
+LC-1200,12042 Jonata St,Frisco,TX,75035,Lexington Country,5,3.0,5476,0.25,2019,1439000
+LC-1201,13438 Azra Trail,Frisco,TX,75035,Lexington Country,5,3.5,3848,0.17,2023,1182000
+LC-1202,12628 Majestic Prince St,Frisco,TX,75035,Lexington Country,3,4.0,3247,0.19,2021,865000
+LC-1203,13292 Silver Charm St,Frisco,TX,75035,Lexington Country,4,3.5,2876,0.2,2022,858000
+LC-1204,15155 Secretariat Way,Frisco,TX,75035,Lexington Country,5,3.5,4172,0.18,2019,1299000
+LC-1205,11744 Bally Ache Ln,Frisco,TX,75035,Lexington Country,5,4.0,5868,0.25,2020,1856000
+LC-1206,14932 Justify Ln,Frisco,TX,75035,Lexington Country,5,5.0,4117,0.32,2021,1141000
+LC-1207,10443 Swaps Dr,Frisco,TX,75035,Lexington Country,5,5.5,4884,0.23,2023,1561000
+LC-1208,13499 Wintergreen Dr,Frisco,TX,75035,Lexington Country,5,3.5,5681,0.21,2017,1524000
+LC-1209,13873 Bally Ache Ln,Frisco,TX,75035,Lexington Country,4,4.5,4215,0.31,2016,1289000
+LC-1210,13238 Citation Dr,Frisco,TX,75035,Lexington Country,3,3.5,5659,0.16,2017,1615000
+LC-1211,15869 Gallahadion St,Frisco,TX,75035,Lexington Country,4,4.5,2986,0.21,2018,935000
+LC-1212,13108 Nashua Dr,Frisco,TX,75035,Lexington Country,6,3.5,5736,0.19,2020,1456000
+LC-1213,12830 Assault St,Frisco,TX,75035,Lexington Country,5,3.5,3622,0.26,2017,1004000
+LC-1214,10734 Real Quiet Dr,Frisco,TX,75035,Lexington Country,5,3.5,5251,0.22,2017,1494000
+LC-1215,13325 Count Fleet Dr,Frisco,TX,75035,Lexington Country,4,3.5,5903,0.32,2016,1479000
+LC-1216,15421 Cavalcade St,Frisco,TX,75035,Lexington Country,6,3.0,4194,0.34,2017,1223000
+LC-1217,12468 Assault St,Frisco,TX,75035,Lexington Country,6,4.5,3693,0.2,2021,1088000
+LC-1218,13977 American Pharoah Way,Frisco,TX,75035,Lexington Country,4,4.5,5775,0.34,2019,1726000
+LC-1219,14208 War Admiral Ave,Frisco,TX,75035,Lexington Country,4,4.0,3091,0.34,2019,984000
+LC-1220,15836 Swaps Dr,Frisco,TX,75035,Lexington Country,4,4.0,4968,0.32,2019,1584000
+LC-1221,13523 Sunday Silence Way,Frisco,TX,75035,Lexington Country,4,3.0,2816,0.35,2018,859000
+LC-1222,14993 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,4.0,5914,0.33,2021,1612000
+LC-1223,10350 Cavalcade St,Frisco,TX,75035,Lexington Country,4,3.5,3223,0.24,2017,972000
+LC-1224,12097 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,3.0,5046,0.22,2019,1401000
+LC-1225,12537 Jonata St,Frisco,TX,75035,Lexington Country,4,3.5,5761,0.32,2022,1811000
+LC-1226,12662 Gallahadion St,Frisco,TX,75035,Lexington Country,4,4.5,4355,0.16,2023,1307000
+LC-1227,11372 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,4,4.5,5021,0.34,2020,1338000
+LC-1228,15716 Secretariat Way,Frisco,TX,75035,Lexington Country,3,4.0,3194,0.18,2023,843000
+LC-1229,14644 Omaha St,Frisco,TX,75035,Lexington Country,5,3.5,5280,0.21,2021,1332000
+LC-1230,15640 Real Quiet Dr,Frisco,TX,75035,Lexington Country,5,4.0,4938,0.16,2017,1326000
+LC-1231,11261 Grindstone Ln,Frisco,TX,75035,Lexington Country,3,4.0,3068,0.19,2021,973000
+LC-1232,11120 Grindstone Ln,Frisco,TX,75035,Lexington Country,4,4.0,4337,0.29,2023,1106000
+LC-1233,15057 Spectacular Bid St,Frisco,TX,75035,Lexington Country,5,4.0,4090,0.35,2020,1078000
+LC-1234,14713 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,5,4.5,5868,0.29,2017,1505000
+LC-1235,11312 Cavalcade St,Frisco,TX,75035,Lexington Country,4,4.5,2957,0.19,2022,946000
+LC-1236,10945 Assault St,Frisco,TX,75035,Lexington Country,4,4.0,5875,0.23,2022,1671000
+LC-1237,15876 Funny Cide St,Frisco,TX,75035,Lexington Country,4,4.5,4932,0.19,2020,1565000
+LC-1238,13328 Count Fleet Dr,Frisco,TX,75035,Lexington Country,5,3.0,5341,0.22,2023,1363000
+LC-1239,14116 Silver Charm St,Frisco,TX,75035,Lexington Country,4,4.5,5450,0.22,2019,1463000
+LC-1240,13743 Real Quiet Dr,Frisco,TX,75035,Lexington Country,6,3.5,4379,0.17,2018,1159000
+LC-1241,10804 Kaufai St,Frisco,TX,75035,Lexington Country,5,5.0,3270,0.33,2020,875000
+LC-1242,14140 Azra Trail,Frisco,TX,75035,Lexington Country,5,5.0,5522,0.24,2023,1588000
+LC-1243,13683 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,4,4.5,3364,0.28,2020,1049000
+LC-1244,13942 Seattle Slew St,Frisco,TX,75035,Lexington Country,5,5.5,4559,0.24,2020,1201000
+LC-1245,15731 Gallahadion St,Frisco,TX,75035,Lexington Country,4,3.5,4236,0.3,2019,1075000
+LC-1246,11570 Justify Ln,Frisco,TX,75035,Lexington Country,4,4.5,3354,0.18,2023,1006000
+LC-1247,12384 Swaps Dr,Frisco,TX,75035,Lexington Country,3,4.0,5275,0.17,2023,1587000
+LC-1248,12923 Count Fleet Dr,Frisco,TX,75035,Lexington Country,4,5.0,5988,0.19,2016,1571000
+LC-1249,15125 Kaufai St,Frisco,TX,75035,Lexington Country,3,4.5,3503,0.19,2023,1016000
+LC-1250,15435 Azra Trail,Frisco,TX,75035,Lexington Country,4,5.0,3325,0.21,2017,921000
+LC-1251,12672 Deer Trail,Frisco,TX,75035,Lexington Country,3,4.5,4457,0.31,2019,1225000
+LC-1252,12911 Smarty Jones Way,Frisco,TX,75035,Lexington Country,4,5.5,5396,0.27,2019,1657000
+LC-1253,15747 Lexington Ave,Frisco,TX,75035,Lexington Country,5,4.0,5451,0.26,2022,1509000
+LC-1254,15259 Deer Trail,Frisco,TX,75035,Lexington Country,5,3.5,3412,0.16,2022,1022000
+LC-1255,13822 Wintergreen Dr,Frisco,TX,75035,Lexington Country,6,5.0,3078,0.3,2017,956000
+LC-1256,14846 Nashua Dr,Frisco,TX,75035,Lexington Country,3,4.5,5536,0.18,2021,1607000
+LC-1257,11657 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,6,5.0,5886,0.28,2016,1478000
+LC-1258,15476 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,4.0,5308,0.33,2018,1633000
+LC-1259,15230 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,5,4.0,5815,0.34,2021,1491000
+LC-1260,14389 Lexington Ave,Frisco,TX,75035,Lexington Country,4,3.5,4997,0.35,2018,1411000
+LC-1261,13104 Alydar Ave,Frisco,TX,75035,Lexington Country,5,3.5,5549,0.21,2021,1485000
+LC-1262,13429 Pensive Ave,Frisco,TX,75035,Lexington Country,4,5.0,3422,0.32,2019,878000
+LC-1263,11769 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,5,3.5,5419,0.23,2021,1601000
+LC-1264,11491 Affirmed Ave,Frisco,TX,75035,Lexington Country,4,5.0,5093,0.19,2023,1453000
+LC-1265,15812 Sir Barton Ave,Frisco,TX,75035,Lexington Country,3,4.0,4310,0.16,2022,1317000
+LC-1266,10041 War Admiral Ave,Frisco,TX,75035,Lexington Country,3,4.5,5772,0.28,2021,1621000
+LC-1267,10049 Secretariat Way,Frisco,TX,75035,Lexington Country,6,3.0,3922,0.27,2023,1242000
+LC-1268,13215 Gallahadion St,Frisco,TX,75035,Lexington Country,5,3.5,4246,0.26,2023,1080000
+LC-1269,11473 Smarty Jones Way,Frisco,TX,75035,Lexington Country,5,4.5,5449,0.26,2021,1463000
+LC-1270,13019 Wells Branch,Frisco,TX,75035,Lexington Country,3,4.5,5376,0.34,2021,1587000
+LC-1271,14757 Funny Cide St,Frisco,TX,75035,Lexington Country,5,4.5,4196,0.27,2022,1135000
+LC-1272,11643 Smarty Jones Way,Frisco,TX,75035,Lexington Country,4,5.5,5495,0.21,2021,1544000
+LC-1273,13985 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,3.5,3367,0.33,2017,855000
+LC-1274,10944 Secretariat Way,Frisco,TX,75035,Lexington Country,4,3.5,3113,0.26,2019,928000
+LC-1275,10416 Whirlaway Dr,Frisco,TX,75035,Lexington Country,5,4.0,5046,0.19,2019,1480000
+LC-1276,15348 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,5,4.5,5860,0.22,2019,1591000
+LC-1277,12965 Gallahadion St,Frisco,TX,75035,Lexington Country,4,4.0,3403,0.24,2020,1014000
+LC-1278,10713 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,5,5.0,4054,0.2,2016,1199000
+LC-1279,15697 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,6,5.5,2828,0.17,2020,797000
+LC-1280,14602 Smarty Jones Way,Frisco,TX,75035,Lexington Country,3,4.5,5662,0.25,2017,1710000
+LC-1281,15475 Count Fleet Dr,Frisco,TX,75035,Lexington Country,3,5.0,4918,0.3,2016,1507000
+LC-1282,13332 Cavalcade St,Frisco,TX,75035,Lexington Country,3,5.0,3847,0.25,2023,1151000
+LC-1283,13529 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,5,4.5,3009,0.3,2023,859000
+LC-1284,12945 Seattle Slew St,Frisco,TX,75035,Lexington Country,5,5.5,3937,0.28,2016,1232000
+LC-1285,15138 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,6,5.0,5001,0.2,2019,1329000
+LC-1286,15881 Spectacular Bid St,Frisco,TX,75035,Lexington Country,5,3.5,5024,0.31,2021,1606000
+LC-1287,12701 Swaps Dr,Frisco,TX,75035,Lexington Country,5,4.5,3282,0.28,2020,966000
+LC-1288,15438 Box Elder Ln,Frisco,TX,75035,Lexington Country,3,4.0,5996,0.3,2016,1553000
+LC-1289,13253 Sir Barton Ave,Frisco,TX,75035,Lexington Country,5,5.5,4240,0.23,2019,1176000
+LC-1290,15119 Deer Trail,Frisco,TX,75035,Lexington Country,4,4.5,4448,0.27,2020,1380000
+LC-1291,10516 Grindstone Ln,Frisco,TX,75035,Lexington Country,5,5.0,5491,0.24,2019,1490000
+LC-1292,14394 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,4.0,3713,0.3,2022,1052000
+LC-1293,15658 Bally Ache Ln,Frisco,TX,75035,Lexington Country,4,4.0,3074,0.31,2022,806000
+LC-1294,15437 Silver Charm St,Frisco,TX,75035,Lexington Country,4,5.0,3659,0.25,2018,1127000
+LC-1295,12989 Bally Ache Ln,Frisco,TX,75035,Lexington Country,4,4.5,3910,0.2,2019,1079000
+LC-1296,13243 Grindstone Ln,Frisco,TX,75035,Lexington Country,4,5.0,4590,0.29,2017,1319000
+LC-1297,10772 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,4,4.0,3032,0.27,2021,804000
+LC-1298,11238 Count Fleet Dr,Frisco,TX,75035,Lexington Country,4,5.0,3414,0.35,2020,975000
+LC-1299,13246 Gallahadion St,Frisco,TX,75035,Lexington Country,5,5.5,3901,0.35,2017,1026000
+LC-1300,15011 Kaufai St,Frisco,TX,75035,Lexington Country,5,3.5,4888,0.2,2016,1339000
+LC-1301,10173 Tim Tam Dr,Frisco,TX,75035,Lexington Country,3,5.5,4840,0.34,2017,1456000
+LC-1302,11071 Omaha St,Frisco,TX,75035,Lexington Country,5,5.0,4183,0.25,2019,1236000
+LC-1303,11273 Kaufai St,Frisco,TX,75035,Lexington Country,3,3.0,3811,0.18,2017,969000
+LC-1304,13924 Wells Branch,Frisco,TX,75035,Lexington Country,5,5.0,3009,0.3,2018,826000
+LC-1305,12618 Smarty Jones Way,Frisco,TX,75035,Lexington Country,5,3.0,5738,0.34,2016,1451000
+LC-1306,14237 Justify Ln,Frisco,TX,75035,Lexington Country,5,3.5,5078,0.33,2023,1414000
+LC-1307,11951 Spectacular Bid St,Frisco,TX,75035,Lexington Country,3,5.0,5321,0.33,2023,1615000
+LC-1308,14757 Deer Trail,Frisco,TX,75035,Lexington Country,3,5.5,3687,0.29,2020,930000
+LC-1309,15931 Kaufai St,Frisco,TX,75035,Lexington Country,5,5.5,3954,0.33,2016,1197000
+LC-1310,10154 Silver Charm Ave,Frisco,TX,75035,Lexington Country,4,3.5,4816,0.2,2017,1476000
+LC-1311,15753 Assault St,Frisco,TX,75035,Lexington Country,4,4.0,3774,0.34,2020,1144000
+LC-1312,13147 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,3,4.5,4137,0.27,2016,1296000
+LC-1313,11406 Gallahadion St,Frisco,TX,75035,Lexington Country,5,4.5,3047,0.27,2021,886000
+LC-1314,10261 Majestic Prince St,Frisco,TX,75035,Lexington Country,5,3.0,5953,0.28,2020,1846000
+LC-1315,15823 Seattle Slew St,Frisco,TX,75035,Lexington Country,5,5.0,5799,0.25,2023,1502000
+LC-1316,14293 Assault St,Frisco,TX,75035,Lexington Country,6,3.5,3229,0.17,2016,1011000
+LC-1317,11361 Citation Dr,Frisco,TX,75035,Lexington Country,3,3.5,3787,0.25,2019,1059000
+LC-1318,12424 Pensive Ave,Frisco,TX,75035,Lexington Country,5,5.0,5053,0.32,2016,1341000
+LC-1319,13963 Bally Ache Ln,Frisco,TX,75035,Lexington Country,6,3.0,4341,0.2,2020,1204000
+LC-1320,13503 Kaufai St,Frisco,TX,75035,Lexington Country,5,5.5,2910,0.3,2023,765000
+LC-1321,15753 Silver Charm St,Frisco,TX,75035,Lexington Country,6,5.0,3103,0.32,2020,875000
+LC-1322,15249 Bold Ruler Way,Frisco,TX,75035,Lexington Country,3,5.0,5413,0.35,2021,1390000
+LC-1323,13070 Gallahadion St,Frisco,TX,75035,Lexington Country,6,3.5,5922,0.3,2023,1870000
+LC-1324,13415 Whirlaway Dr,Frisco,TX,75035,Lexington Country,4,5.0,4513,0.29,2023,1268000
+LC-1325,12757 Affirmed Ave,Frisco,TX,75035,Lexington Country,4,3.5,2855,0.31,2023,840000
+LC-1326,14432 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,6,5.5,5718,0.29,2019,1430000
+LC-1327,10380 Grindstone Ln,Frisco,TX,75035,Lexington Country,4,5.0,5089,0.31,2018,1296000
+LC-1328,15152 Affirmed Ave,Frisco,TX,75035,Lexington Country,6,3.5,3721,0.31,2021,1060000
+LC-1329,15650 Secretariat Way,Frisco,TX,75035,Lexington Country,5,3.5,4542,0.33,2022,1335000
+LC-1330,14547 Proud Clairon St,Frisco,TX,75035,Lexington Country,5,5.0,2901,0.25,2021,875000
+LC-1331,11963 Lexington Ave,Frisco,TX,75035,Lexington Country,4,3.5,5304,0.24,2018,1369000
+LC-1332,12900 Pensive Ave,Frisco,TX,75035,Lexington Country,5,4.5,5627,0.21,2018,1444000
+LC-1333,12918 Swaps Dr,Frisco,TX,75035,Lexington Country,4,5.0,5504,0.35,2019,1710000
+LC-1334,14803 Citation Dr,Frisco,TX,75035,Lexington Country,6,3.5,5414,0.31,2021,1627000
+LC-1335,14019 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,6,5.0,4518,0.17,2022,1186000
+LC-1336,11629 Funny Cide St,Frisco,TX,75035,Lexington Country,4,4.0,4220,0.33,2019,1108000
+LC-1337,15629 Cavalcade St,Frisco,TX,75035,Lexington Country,4,5.0,3586,0.32,2022,971000
+LC-1338,13282 Real Quiet Dr,Frisco,TX,75035,Lexington Country,5,3.5,3973,0.27,2021,1240000
+LC-1339,12930 Wintergreen Dr,Frisco,TX,75035,Lexington Country,4,4.5,3229,0.32,2021,818000
+LC-1340,14651 Lexington Ave,Frisco,TX,75035,Lexington Country,4,4.5,2880,0.22,2021,863000
+LC-1341,13513 Omaha St,Frisco,TX,75035,Lexington Country,3,5.0,4326,0.26,2017,1141000
+LC-1342,13930 Nashua Dr,Frisco,TX,75035,Lexington Country,5,3.5,5995,0.23,2022,1515000
+LC-1343,10485 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,4,3.0,4601,0.27,2020,1466000
+LC-1344,10826 Silver Charm St,Frisco,TX,75035,Lexington Country,5,3.5,3571,0.35,2020,895000
+LC-1345,12236 Grindstone Ln,Frisco,TX,75035,Lexington Country,5,5.5,3020,0.16,2020,927000
+LC-1346,15513 Bold Ruler Way,Frisco,TX,75035,Lexington Country,4,4.0,3000,0.2,2019,878000
+LC-1347,11987 Citation Dr,Frisco,TX,75035,Lexington Country,4,4.0,5095,0.29,2018,1579000
+LC-1348,12184 Justify Ln,Frisco,TX,75035,Lexington Country,4,5.0,5501,0.23,2017,1434000
+LC-1349,13884 Secretariat Way,Frisco,TX,75035,Lexington Country,6,3.0,2855,0.28,2018,759000
+LC-1350,14335 American Pharoah Way,Frisco,TX,75035,Lexington Country,5,3.5,4597,0.27,2021,1464000
+LC-1351,15754 Count Fleet Dr,Frisco,TX,75035,Lexington Country,6,5.5,5936,0.27,2017,1796000
+LC-1352,11087 Sunday Silence Way,Frisco,TX,75035,Lexington Country,3,3.5,3017,0.27,2018,953000
+LC-1353,10080 Count Fleet Dr,Frisco,TX,75035,Lexington Country,5,5.5,2864,0.21,2019,772000
+LC-1354,10747 Jonata St,Frisco,TX,75035,Lexington Country,4,3.5,4206,0.32,2022,1162000
+LC-1355,11649 Deer Trail,Frisco,TX,75035,Lexington Country,5,4.5,3663,0.28,2020,918000
+LC-1356,12253 Omaha St,Frisco,TX,75035,Lexington Country,5,3.5,4307,0.31,2023,1287000
+LC-1357,15187 Proud Clairon St,Frisco,TX,75035,Lexington Country,3,3.5,5760,0.16,2022,1502000
+LC-1358,11003 Seattle Slew St,Frisco,TX,75035,Lexington Country,3,5.0,5248,0.18,2023,1326000
+LC-1359,12927 Jonata St,Frisco,TX,75035,Lexington Country,5,3.0,3249,0.19,2017,1009000
+LC-1360,10470 American Pharoah Way,Frisco,TX,75035,Lexington Country,4,3.5,4897,0.31,2023,1233000
+LC-1361,14659 Deer Trail,Frisco,TX,75035,Lexington Country,5,5.5,5763,0.18,2019,1501000
+LC-1362,11161 Cavalcade St,Frisco,TX,75035,Lexington Country,5,4.5,5145,0.24,2016,1435000
+LC-1363,14467 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,5,4.0,4776,0.18,2023,1277000
+LC-1364,10439 Seattle Slew St,Frisco,TX,75035,Lexington Country,3,3.5,5291,0.2,2022,1557000
+LC-1365,11880 Sir Barton Ave,Frisco,TX,75035,Lexington Country,4,4.0,4094,0.2,2017,1191000
+LC-1366,12132 Funny Cide St,Frisco,TX,75035,Lexington Country,4,4.0,3301,0.32,2018,997000
+LC-1367,11255 Smarty Jones Way,Frisco,TX,75035,Lexington Country,4,5.0,5959,0.34,2023,1833000
+LC-1368,10352 Count Fleet Dr,Frisco,TX,75035,Lexington Country,5,5.5,5045,0.29,2021,1481000
+LC-1369,10746 Silver Charm Ave,Frisco,TX,75035,Lexington Country,6,5.5,3236,0.19,2017,974000
+LC-1370,11691 Citation Dr,Frisco,TX,75035,Lexington Country,4,3.0,4519,0.29,2016,1386000
+LC-1371,14086 Secretariat Way,Frisco,TX,75035,Lexington Country,4,3.5,5330,0.18,2017,1506000
+LC-1372,10324 Box Elder Ln,Frisco,TX,75035,Lexington Country,4,3.5,4267,0.28,2017,1146000
+LC-1373,13625 American Pharoah Way,Frisco,TX,75035,Lexington Country,5,4.0,3007,0.2,2018,892000
+LC-1374,15475 Azra Trail,Frisco,TX,75035,Lexington Country,4,5.0,3995,0.25,2017,1056000
+LC-1375,13590 Bally Ache Ln,Frisco,TX,75035,Lexington Country,4,3.5,5929,0.28,2022,1577000
+LC-1376,10601 Majestic Prince St,Frisco,TX,75035,Lexington Country,4,3.5,4029,0.31,2021,1218000
+LC-1377,13713 Silver Charm St,Frisco,TX,75035,Lexington Country,5,3.0,3470,0.24,2021,1067000
+LC-1378,14073 Affirmed Ave,Frisco,TX,75035,Lexington Country,3,4.5,5055,0.32,2021,1572000
+LC-1379,10566 Lexington Ave,Frisco,TX,75035,Lexington Country,3,5.0,4333,0.29,2017,1382000
+LC-1380,10195 Seattle Slew St,Frisco,TX,75035,Lexington Country,5,4.0,4693,0.18,2016,1288000
+LC-1381,13727 Funny Cide St,Frisco,TX,75035,Lexington Country,4,3.0,4649,0.23,2020,1282000
+LC-1382,11586 Azra Trail,Frisco,TX,75035,Lexington Country,3,4.5,5024,0.29,2021,1379000
+LC-1383,11180 Tim Tam Dr,Frisco,TX,75035,Lexington Country,6,5.0,2814,0.21,2019,889000
+LC-1384,14073 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,5.0,5134,0.16,2020,1566000
+LC-1385,14083 Justify Ln,Frisco,TX,75035,Lexington Country,4,5.0,5904,0.21,2017,1744000
+LC-1386,10967 Count Fleet Dr,Frisco,TX,75035,Lexington Country,6,3.5,3376,0.29,2021,1013000
+LC-1387,11834 Nashua Dr,Frisco,TX,75035,Lexington Country,3,3.5,5279,0.27,2017,1400000
+LC-1388,10277 Grindstone Ln,Frisco,TX,75035,Lexington Country,4,5.5,4099,0.16,2023,1147000
+LC-1389,10245 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,4,3.5,5031,0.2,2021,1599000
+LC-1390,11255 Silver Charm St,Frisco,TX,75035,Lexington Country,5,5.0,5187,0.33,2017,1512000
+LC-1391,10215 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,4,5.0,5812,0.22,2016,1665000
+LC-1392,15351 Sunday Silence Way,Frisco,TX,75035,Lexington Country,3,4.0,2943,0.24,2020,890000
+LC-1393,13704 Count Fleet Dr,Frisco,TX,75035,Lexington Country,5,3.5,3082,0.28,2016,896000
+LC-1394,11193 Azra Trail,Frisco,TX,75035,Lexington Country,4,3.0,5190,0.28,2018,1337000
+LC-1395,13883 Wells Branch,Frisco,TX,75035,Lexington Country,3,5.5,4169,0.18,2020,1122000
+LC-1396,12864 Bally Ache Ln,Frisco,TX,75035,Lexington Country,6,5.0,5082,0.26,2017,1396000
+LC-1397,12121 Spectacular Bid St,Frisco,TX,75035,Lexington Country,4,4.5,4648,0.3,2017,1378000
+LC-1398,12397 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,3,4.5,3292,0.28,2022,943000
+LC-1399,10273 Box Elder Ln,Frisco,TX,75035,Lexington Country,5,3.5,3140,0.33,2016,820000
+LC-1400,15445 Smarty Jones Way,Frisco,TX,75035,Lexington Country,5,4.0,4479,0.19,2022,1259000
+LC-1401,13265 Lexington Ave,Frisco,TX,75035,Lexington Country,5,4.0,4958,0.2,2017,1244000
+LC-1402,10265 Secretariat Way,Frisco,TX,75035,Lexington Country,5,4.5,3642,0.28,2022,1013000
+LC-1403,13914 Alydar Ave,Frisco,TX,75035,Lexington Country,3,5.0,4950,0.27,2023,1482000
+LC-1404,14835 Spectacular Bid St,Frisco,TX,75035,Lexington Country,4,4.0,5085,0.23,2020,1468000
+LC-1405,11564 Majestic Prince St,Frisco,TX,75035,Lexington Country,5,5.0,5613,0.24,2021,1555000
+LC-1406,11122 Spectacular Bid St,Frisco,TX,75035,Lexington Country,5,4.0,4497,0.29,2017,1136000
+LC-1407,12760 Sir Barton Ave,Frisco,TX,75035,Lexington Country,4,5.5,3114,0.32,2016,846000
+LC-1408,14403 Majestic Prince St,Frisco,TX,75035,Lexington Country,5,4.0,4670,0.23,2017,1340000
+LC-1409,15383 Sir Barton Ave,Frisco,TX,75035,Lexington Country,5,4.0,4558,0.27,2022,1316000
+LC-1410,11717 Seattle Slew St,Frisco,TX,75035,Lexington Country,5,3.5,3407,0.3,2021,861000
+LC-1411,12861 Pensive Ave,Frisco,TX,75035,Lexington Country,5,4.0,5456,0.2,2018,1717000
+LC-1412,10631 Majestic Prince St,Frisco,TX,75035,Lexington Country,5,3.0,5465,0.3,2016,1433000
+LC-1413,14440 Bold Ruler Way,Frisco,TX,75035,Lexington Country,3,5.5,3819,0.35,2022,1165000
+LC-1414,13387 Bally Ache Ln,Frisco,TX,75035,Lexington Country,6,4.0,5301,0.17,2023,1387000
+LC-1415,10816 Funny Cide St,Frisco,TX,75035,Lexington Country,5,3.5,5303,0.29,2016,1692000
+LC-1416,12905 Bally Ache Ln,Frisco,TX,75035,Lexington Country,3,4.5,5268,0.22,2020,1412000
+LC-1417,14216 Sir Barton Ave,Frisco,TX,75035,Lexington Country,5,5.5,4564,0.23,2017,1290000
+LC-1418,11798 Justify Ln,Frisco,TX,75035,Lexington Country,4,4.5,3268,0.23,2016,1024000
+LC-1419,12733 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,5,4.0,2928,0.3,2019,897000
+LC-1420,13168 Silver Charm St,Frisco,TX,75035,Lexington Country,3,3.5,4806,0.29,2016,1487000
+LC-1421,15505 Smarty Jones Way,Frisco,TX,75035,Lexington Country,5,5.0,4272,0.16,2022,1158000
+LC-1422,13371 Whirlaway Dr,Frisco,TX,75035,Lexington Country,5,4.5,3239,0.35,2017,1016000
+LC-1423,10365 Wells Branch,Frisco,TX,75035,Lexington Country,5,4.5,4348,0.29,2020,1274000
+LC-1424,15155 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,5,4.5,5634,0.19,2021,1505000
+LC-1425,12492 Omaha St,Frisco,TX,75035,Lexington Country,6,5.0,3948,0.28,2018,1088000
+LC-1426,10320 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,5,4.5,3820,0.18,2017,1203000
+LC-1427,13414 Lexington Ave,Frisco,TX,75035,Lexington Country,5,3.5,3087,0.21,2021,935000
+LC-1428,15512 Assault St,Frisco,TX,75035,Lexington Country,4,5.5,5431,0.19,2022,1484000
+LC-1429,12037 Box Elder Ln,Frisco,TX,75035,Lexington Country,3,4.0,4534,0.25,2022,1353000
+LC-1430,10880 Silver Charm Ave,Frisco,TX,75035,Lexington Country,5,4.0,4879,0.16,2017,1459000
+LC-1431,14518 Assault St,Frisco,TX,75035,Lexington Country,6,5.5,4872,0.34,2016,1544000
+LC-1432,11638 Count Fleet Dr,Frisco,TX,75035,Lexington Country,5,3.5,2923,0.27,2016,873000
+LC-1433,13213 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,3,4.0,2846,0.24,2018,759000
+LC-1434,12380 Omaha St,Frisco,TX,75035,Lexington Country,4,3.5,3012,0.31,2019,816000
+LC-1435,12910 Alydar Ave,Frisco,TX,75035,Lexington Country,5,5.0,5161,0.28,2022,1505000
+LC-1436,15362 Silver Charm St,Frisco,TX,75035,Lexington Country,4,4.0,2850,0.27,2021,720000
+LC-1437,11277 Proud Clairon St,Frisco,TX,75035,Lexington Country,6,4.5,2886,0.24,2016,888000
+LC-1438,12350 Funny Cide St,Frisco,TX,75035,Lexington Country,5,5.0,3356,0.24,2020,903000
+LC-1439,15976 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,5,3.5,2890,0.22,2019,746000
+LC-1440,10996 Cavalcade St,Frisco,TX,75035,Lexington Country,5,4.5,2996,0.18,2016,952000
+LC-1441,12278 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,4.0,3686,0.3,2020,1066000
+LC-1442,13158 War Admiral Ave,Frisco,TX,75035,Lexington Country,4,5.5,2903,0.24,2020,920000
+LC-1443,15673 Affirmed Ave,Frisco,TX,75035,Lexington Country,4,3.0,3873,0.3,2020,1001000
+LC-1444,10218 Funny Cide St,Frisco,TX,75035,Lexington Country,5,3.5,5394,0.2,2016,1588000
+LC-1445,10203 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,5,3.0,5328,0.31,2017,1665000
+LC-1446,12004 Sunday Silence Way,Frisco,TX,75035,Lexington Country,5,4.5,3467,0.31,2017,1081000
+LC-1447,12464 Sunday Silence Way,Frisco,TX,75035,Lexington Country,4,3.5,5452,0.3,2016,1711000
+LC-1448,10090 Nashua Dr,Frisco,TX,75035,Lexington Country,4,5.0,5638,0.18,2018,1439000
+LC-1449,11702 Secretariat Way,Frisco,TX,75035,Lexington Country,6,4.0,4763,0.24,2019,1503000
+LC-1450,10645 Proud Clairon St,Frisco,TX,75035,Lexington Country,4,4.5,3368,0.29,2018,869000
+LC-1451,15803 War Admiral Ave,Frisco,TX,75035,Lexington Country,3,4.5,5843,0.33,2018,1643000
+LC-1452,12029 Majestic Prince St,Frisco,TX,75035,Lexington Country,4,5.0,3532,0.22,2020,899000
+LC-1453,13495 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,4,4.5,5268,0.27,2017,1524000
+LC-1454,14276 Justify Ln,Frisco,TX,75035,Lexington Country,5,5.0,4665,0.24,2016,1319000
+LC-1455,15177 Silver Charm St,Frisco,TX,75035,Lexington Country,5,3.5,4624,0.31,2021,1232000
+LC-1456,11065 Nashua Dr,Frisco,TX,75035,Lexington Country,6,4.5,5249,0.2,2020,1576000
+LC-1457,11168 Spectacular Bid St,Frisco,TX,75035,Lexington Country,3,5.5,4637,0.28,2016,1248000
+LC-1458,14912 Citation Dr,Frisco,TX,75035,Lexington Country,5,4.5,5777,0.29,2020,1563000
+LC-1459,15343 Nashua Dr,Frisco,TX,75035,Lexington Country,6,4.5,2809,0.28,2021,719000
+LC-1460,14539 Cavalcade St,Frisco,TX,75035,Lexington Country,5,4.0,5644,0.24,2019,1773000
+LC-1461,13081 Seattle Slew St,Frisco,TX,75035,Lexington Country,5,4.0,5896,0.21,2016,1557000
+LC-1462,12925 Real Quiet Dr,Frisco,TX,75035,Lexington Country,3,4.0,5709,0.32,2016,1540000
+LC-1463,12363 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,3.0,2992,0.17,2021,794000
+LC-1464,13343 Pensive Ave,Frisco,TX,75035,Lexington Country,5,3.5,3361,0.2,2017,873000
+LC-1465,13210 Lexington Ave,Frisco,TX,75035,Lexington Country,6,5.0,4908,0.32,2020,1455000
+LC-1466,11329 Count Fleet Dr,Frisco,TX,75035,Lexington Country,5,4.0,3676,0.31,2017,928000
+LC-1467,15279 Swaps Dr,Frisco,TX,75035,Lexington Country,6,3.5,4249,0.29,2021,1211000
+LC-1468,14147 Majestic Prince St,Frisco,TX,75035,Lexington Country,5,3.5,3634,0.21,2018,1061000
+LC-1469,13574 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,5,3.5,3217,0.26,2017,873000
+LC-1470,12975 Alydar Ave,Frisco,TX,75035,Lexington Country,3,5.5,3187,0.31,2017,916000
+LC-1471,15827 Wintergreen Dr,Frisco,TX,75035,Lexington Country,5,3.5,3301,0.27,2018,845000
+LC-1472,13987 Alydar Ave,Frisco,TX,75035,Lexington Country,5,5.0,5217,0.28,2023,1532000
+LC-1473,12469 Sir Barton Ave,Frisco,TX,75035,Lexington Country,3,3.0,4724,0.29,2020,1353000
+LC-1474,11151 Swaps Dr,Frisco,TX,75035,Lexington Country,6,3.0,4397,0.23,2017,1371000
+LC-1475,14599 Alydar Ave,Frisco,TX,75035,Lexington Country,6,5.0,2870,0.22,2023,892000
+LC-1476,10936 Deer Trail,Frisco,TX,75035,Lexington Country,5,4.0,5938,0.34,2020,1808000
+LC-1477,15572 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,6,4.0,4300,0.21,2018,1247000
+LC-1478,14621 Secretariat Way,Frisco,TX,75035,Lexington Country,5,4.5,5443,0.32,2019,1599000
+LC-1479,10403 Jonata St,Frisco,TX,75035,Lexington Country,4,3.0,3182,0.29,2020,843000
+LC-1480,11572 Jonata St,Frisco,TX,75035,Lexington Country,6,3.5,4913,0.21,2021,1394000
+LC-1481,11826 Swaps Dr,Frisco,TX,75035,Lexington Country,3,3.5,5971,0.34,2021,1868000
+LC-1482,14709 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,6,5.5,4915,0.21,2022,1339000
+LC-1483,14505 Real Quiet Dr,Frisco,TX,75035,Lexington Country,3,4.0,3106,0.33,2017,891000
+LC-1484,10066 Wells Branch,Frisco,TX,75035,Lexington Country,5,3.0,5716,0.21,2017,1710000
+LC-1485,11313 Affirmed Ave,Frisco,TX,75035,Lexington Country,6,5.0,3586,0.26,2019,1037000
+LC-1486,15123 Sunday Silence Way,Frisco,TX,75035,Lexington Country,4,4.0,4065,0.31,2016,1279000
+LC-1487,15109 Box Elder Ln,Frisco,TX,75035,Lexington Country,5,4.5,4138,0.2,2020,1064000
+LC-1488,13362 Real Quiet Dr,Frisco,TX,75035,Lexington Country,5,3.5,5241,0.34,2020,1654000
+LC-1489,14948 Citation Dr,Frisco,TX,75035,Lexington Country,5,3.5,5335,0.31,2016,1617000
+LC-1490,13564 Proud Clairon St,Frisco,TX,75035,Lexington Country,5,3.0,5259,0.2,2021,1425000
+LC-1491,15129 Azra Trail,Frisco,TX,75035,Lexington Country,4,3.5,5860,0.3,2021,1783000
+LC-1492,12332 Majestic Prince St,Frisco,TX,75035,Lexington Country,6,4.5,5751,0.31,2021,1757000
+LC-1493,13842 Azra Trail,Frisco,TX,75035,Lexington Country,5,4.0,2826,0.19,2019,827000
+LC-1494,14427 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,5,3.0,5982,0.23,2021,1792000
+LC-1495,10480 War Admiral Ave,Frisco,TX,75035,Lexington Country,5,4.0,4835,0.25,2022,1510000
+LC-1496,11972 Count Fleet Dr,Frisco,TX,75035,Lexington Country,4,5.5,3400,0.34,2019,1000000
+LC-1497,15564 Grindstone Ln,Frisco,TX,75035,Lexington Country,3,3.5,5488,0.31,2021,1406000
+LC-1498,13180 Silver Charm St,Frisco,TX,75035,Lexington Country,4,3.5,3167,0.31,2019,892000
+LC-1499,12569 Secretariat Way,Frisco,TX,75035,Lexington Country,6,4.5,4569,0.18,2017,1181000
+LC-1500,12593 Seattle Slew St,Frisco,TX,75035,Lexington Country,4,4.0,5978,0.22,2022,1538000
+LC-1501,10451 Seattle Slew St,Frisco,TX,75035,Lexington Country,4,3.0,5463,0.29,2019,1735000
+LC-1502,13259 Box Elder Ln,Frisco,TX,75035,Lexington Country,4,5.5,4177,0.21,2016,1230000
+LC-1503,10516 Sir Barton Ave,Frisco,TX,75035,Lexington Country,5,4.0,4386,0.25,2016,1134000
+LC-1504,10253 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,5,4.0,3730,0.21,2023,1068000
+LC-1505,11129 Gallahadion St,Frisco,TX,75035,Lexington Country,4,5.0,5786,0.17,2022,1749000
+LC-1506,13119 Silver Charm St,Frisco,TX,75035,Lexington Country,5,4.5,3389,0.23,2023,1031000
+LC-1507,12632 Citation Dr,Frisco,TX,75035,Lexington Country,4,4.0,5346,0.31,2016,1542000
+LC-1508,13813 Bally Ache Ln,Frisco,TX,75035,Lexington Country,3,5.5,5397,0.27,2016,1525000
+LC-1509,11609 Bally Ache Ln,Frisco,TX,75035,Lexington Country,6,3.5,4671,0.26,2021,1465000
+LC-1510,15384 Proud Clairon St,Frisco,TX,75035,Lexington Country,5,4.0,3014,0.18,2018,869000
+LC-1511,13861 Nashua Dr,Frisco,TX,75035,Lexington Country,4,4.5,4891,0.28,2020,1474000
+LC-1512,10309 Justify Ln,Frisco,TX,75035,Lexington Country,4,3.5,3867,0.32,2016,1021000
+LC-1513,14936 Alydar Ave,Frisco,TX,75035,Lexington Country,4,5.0,5182,0.18,2017,1302000
+LC-1514,14558 Box Elder Ln,Frisco,TX,75035,Lexington Country,4,5.0,4080,0.23,2022,1095000
+LC-1515,14815 Real Quiet Dr,Frisco,TX,75035,Lexington Country,5,5.5,5151,0.35,2016,1537000
+LC-1516,13187 Lexington Ave,Frisco,TX,75035,Lexington Country,5,4.0,5044,0.28,2020,1601000
+LC-1517,13904 Box Elder Ln,Frisco,TX,75035,Lexington Country,5,5.5,5594,0.17,2021,1571000
+LC-1518,15250 Seattle Slew St,Frisco,TX,75035,Lexington Country,5,3.5,3117,0.29,2019,962000
+LC-1519,15135 Justify Ln,Frisco,TX,75035,Lexington Country,3,5.0,5127,0.17,2021,1520000
+LC-1520,15918 Wintergreen Dr,Frisco,TX,75035,Lexington Country,5,5.5,4430,0.28,2022,1270000
+LC-1521,14123 Bally Ache Ln,Frisco,TX,75035,Lexington Country,5,3.5,3146,0.34,2020,826000
+LC-1522,10080 Bally Ache Ln,Frisco,TX,75035,Lexington Country,5,4.0,5768,0.29,2019,1443000
+LC-1523,15620 Smarty Jones Way,Frisco,TX,75035,Lexington Country,5,4.0,3842,0.17,2022,987000
+LC-1524,15355 Affirmed Ave,Frisco,TX,75035,Lexington Country,6,4.5,3035,0.19,2022,915000
+LC-1525,13394 Azra Trail,Frisco,TX,75035,Lexington Country,3,4.0,5178,0.34,2018,1541000
+LC-1526,10236 Kaufai St,Frisco,TX,75035,Lexington Country,5,4.5,5869,0.27,2019,1556000
+LC-1527,12195 Citation Dr,Frisco,TX,75035,Lexington Country,5,4.0,4935,0.19,2019,1491000
+LC-1528,14992 Whirlaway Dr,Frisco,TX,75035,Lexington Country,3,4.5,3115,0.33,2016,979000
+LC-1529,10923 Majestic Prince St,Frisco,TX,75035,Lexington Country,5,3.5,5240,0.27,2021,1422000
+LC-1530,10584 American Pharoah Way,Frisco,TX,75035,Lexington Country,5,4.0,5503,0.28,2016,1476000
+LC-1531,13370 Omaha St,Frisco,TX,75035,Lexington Country,4,3.5,4618,0.25,2020,1350000
+LC-1532,13450 Spectacular Bid St,Frisco,TX,75035,Lexington Country,5,4.5,4609,0.29,2017,1298000
+LC-1533,11867 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,6,5.0,4912,0.19,2017,1471000
+LC-1534,11721 Omaha St,Frisco,TX,75035,Lexington Country,4,4.0,3222,0.26,2016,1002000
+LC-1535,10689 Nashua Dr,Frisco,TX,75035,Lexington Country,4,5.0,3442,0.32,2016,1020000
+LC-1536,12959 Lexington Ave,Frisco,TX,75035,Lexington Country,6,4.0,5185,0.27,2016,1407000
+LC-1537,15224 Kaufai St,Frisco,TX,75035,Lexington Country,3,5.5,5096,0.17,2017,1446000
+LC-1538,11604 War Admiral Ave,Frisco,TX,75035,Lexington Country,4,3.5,4567,0.21,2020,1457000
+LC-1539,12646 Seattle Slew St,Frisco,TX,75035,Lexington Country,4,4.5,3034,0.17,2019,943000
+LC-1540,11957 Secretariat Way,Frisco,TX,75035,Lexington Country,5,3.5,2946,0.31,2017,752000
+LC-1541,12795 Assault St,Frisco,TX,75035,Lexington Country,5,4.5,4397,0.24,2023,1263000
+LC-1542,15178 Majestic Prince St,Frisco,TX,75035,Lexington Country,3,5.5,5490,0.19,2021,1697000
+LC-1543,10919 Box Elder Ln,Frisco,TX,75035,Lexington Country,5,4.0,5127,0.2,2019,1334000
+LC-1544,15182 Whirlaway Dr,Frisco,TX,75035,Lexington Country,5,3.0,4311,0.32,2021,1127000
+LC-1545,15993 Whirlaway Dr,Frisco,TX,75035,Lexington Country,6,4.0,4087,0.29,2020,1172000
+LC-1546,12462 Wintergreen Dr,Frisco,TX,75035,Lexington Country,5,4.0,4722,0.18,2019,1191000
+LC-1547,13647 Whirlaway Dr,Frisco,TX,75035,Lexington Country,3,5.0,5467,0.3,2018,1422000
+LC-1548,10434 Spectacular Bid St,Frisco,TX,75035,Lexington Country,4,5.0,5764,0.27,2018,1699000
+LC-1549,11161 Proud Clairon St,Frisco,TX,75035,Lexington Country,6,5.5,5708,0.17,2021,1612000
+LC-1550,14007 Omaha St,Frisco,TX,75035,Lexington Country,5,4.5,5972,0.2,2020,1699000
+LC-1551,13502 Jonata St,Frisco,TX,75035,Lexington Country,4,4.0,3325,0.23,2016,917000
+LC-1552,12093 Assault St,Frisco,TX,75035,Lexington Country,5,3.5,4248,0.32,2017,1292000
+LC-1553,14635 Box Elder Ln,Frisco,TX,75035,Lexington Country,5,3.0,4519,0.28,2022,1423000
+LC-1554,10453 Azra Trail,Frisco,TX,75035,Lexington Country,5,5.0,4696,0.17,2017,1273000
+LC-1555,11828 Gallahadion St,Frisco,TX,75035,Lexington Country,6,4.5,4441,0.19,2018,1209000
+LC-1556,11382 Grindstone Ln,Frisco,TX,75035,Lexington Country,6,4.5,3788,0.3,2018,1199000
+LC-1557,11188 War Admiral Ave,Frisco,TX,75035,Lexington Country,3,3.5,3764,0.31,2023,1086000
+LC-1558,10838 Majestic Prince St,Frisco,TX,75035,Lexington Country,5,4.5,3040,0.34,2016,923000
+LC-1559,12807 Spectacular Bid St,Frisco,TX,75035,Lexington Country,5,5.0,4416,0.17,2021,1353000
+LC-1560,11279 Pensive Ave,Frisco,TX,75035,Lexington Country,5,4.0,3905,0.27,2018,1121000
+LC-1561,14877 Kaufai St,Frisco,TX,75035,Lexington Country,5,4.5,5979,0.34,2023,1523000
+LC-1562,10147 Swaps Dr,Frisco,TX,75035,Lexington Country,5,3.5,3029,0.22,2020,949000
+LC-1563,14088 Tim Tam Dr,Frisco,TX,75035,Lexington Country,3,5.0,5899,0.2,2021,1580000
+LC-1564,12354 Secretariat Way,Frisco,TX,75035,Lexington Country,3,4.0,3097,0.26,2022,790000
+LC-1565,13501 Justify Ln,Frisco,TX,75035,Lexington Country,3,3.5,3606,0.33,2017,1031000
+LC-1566,11879 Bold Ruler Way,Frisco,TX,75035,Lexington Country,5,5.0,5093,0.31,2020,1292000
+LC-1567,14365 Bold Ruler Way,Frisco,TX,75035,Lexington Country,6,5.5,3599,0.29,2020,1038000
+LC-1568,12164 Sir Barton Ave,Frisco,TX,75035,Lexington Country,5,3.5,4436,0.19,2020,1257000
+LC-1569,11231 Grindstone Ln,Frisco,TX,75035,Lexington Country,5,3.5,4004,0.2,2022,1249000
+LC-1570,15093 Pensive Ave,Frisco,TX,75035,Lexington Country,3,3.5,5943,0.23,2022,1801000
+LC-1571,13444 Grindstone Ln,Frisco,TX,75035,Lexington Country,5,5.0,4444,0.17,2020,1203000
+LC-1572,14085 Sunday Silence Way,Frisco,TX,75035,Lexington Country,4,4.0,3693,0.23,2021,1139000
+LC-1573,14557 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,5,5.5,5279,0.21,2019,1477000
+LC-1574,13690 Box Elder Ln,Frisco,TX,75035,Lexington Country,5,5.0,5116,0.33,2021,1354000
+LC-1575,11154 Box Elder Ln,Frisco,TX,75035,Lexington Country,5,5.0,3207,0.3,2021,862000
+LC-1576,11811 Whirlaway Dr,Frisco,TX,75035,Lexington Country,4,4.0,4766,0.2,2017,1476000
+LC-1577,15149 Deer Trail,Frisco,TX,75035,Lexington Country,5,3.0,5326,0.24,2019,1591000
+LC-1578,15179 Count Fleet Dr,Frisco,TX,75035,Lexington Country,5,4.0,5269,0.18,2020,1599000
+LC-1579,10420 Wintergreen Dr,Frisco,TX,75035,Lexington Country,4,3.5,4159,0.17,2018,1103000
+LC-1580,13031 Spectacular Bid St,Frisco,TX,75035,Lexington Country,5,5.0,3975,0.33,2022,1179000
+LC-1581,11969 Seattle Slew St,Frisco,TX,75035,Lexington Country,3,4.5,4390,0.32,2017,1197000
+LC-1582,15121 Wintergreen Dr,Frisco,TX,75035,Lexington Country,5,5.0,3045,0.3,2022,778000
+LC-1583,12454 Justify Ln,Frisco,TX,75035,Lexington Country,3,3.5,4974,0.3,2018,1263000
+LC-1584,15154 Whirlaway Dr,Frisco,TX,75035,Lexington Country,5,5.0,4904,0.35,2022,1275000
+LC-1585,13036 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,4.5,3117,0.32,2020,991000
+LC-1586,12858 Cavalcade St,Frisco,TX,75035,Lexington Country,5,4.5,2877,0.28,2016,814000
+LC-1587,11876 Proud Clairon St,Frisco,TX,75035,Lexington Country,4,4.0,3047,0.28,2019,789000
+LC-1588,14998 Citation Dr,Frisco,TX,75035,Lexington Country,5,3.5,4608,0.25,2022,1437000
+LC-1589,10624 Smarty Jones Way,Frisco,TX,75035,Lexington Country,3,3.5,5886,0.22,2017,1700000
+LC-1590,13731 Assault St,Frisco,TX,75035,Lexington Country,5,5.5,3563,0.27,2022,1034000
+LC-1591,11368 Sir Barton Ave,Frisco,TX,75035,Lexington Country,3,4.0,4050,0.27,2022,1192000
+LC-1592,11304 Silver Charm St,Frisco,TX,75035,Lexington Country,6,3.0,3738,0.23,2017,939000
+LC-1593,12513 Grindstone Ln,Frisco,TX,75035,Lexington Country,5,4.5,5103,0.21,2023,1296000
+LC-1594,10878 War Admiral Ave,Frisco,TX,75035,Lexington Country,5,5.0,4789,0.26,2021,1204000
+LC-1595,15904 Sunday Silence Way,Frisco,TX,75035,Lexington Country,5,3.5,4533,0.2,2017,1416000
+LC-1596,13169 Justify Ln,Frisco,TX,75035,Lexington Country,5,4.0,5921,0.28,2020,1827000
+LC-1597,13646 Jonata St,Frisco,TX,75035,Lexington Country,4,3.0,5454,0.2,2016,1484000
+LC-1598,11001 Smarty Jones Way,Frisco,TX,75035,Lexington Country,5,4.5,3287,0.24,2017,970000
+LC-1599,11091 Lexington Ave,Frisco,TX,75035,Lexington Country,6,5.5,2928,0.34,2023,853000
+LC-1600,11435 Nashua Dr,Frisco,TX,75035,Lexington Country,5,3.0,5067,0.16,2020,1275000
+LC-1601,12348 Wells Branch,Frisco,TX,75035,Lexington Country,5,4.0,5003,0.32,2019,1303000
+LC-1602,10568 Affirmed Ave,Frisco,TX,75035,Lexington Country,4,4.0,5393,0.26,2021,1589000
+LC-1603,14044 Silver Charm Ave,Frisco,TX,75035,Lexington Country,3,5.5,5923,0.33,2020,1765000
+LC-1604,13911 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,5,5.5,5036,0.24,2019,1575000
+LC-1605,12058 Nashua Dr,Frisco,TX,75035,Lexington Country,5,4.5,4274,0.29,2016,1289000
+LC-1606,11646 Lexington Ave,Frisco,TX,75035,Lexington Country,5,5.0,4441,0.32,2019,1295000
+LC-1607,11188 Pensive Ave,Frisco,TX,75035,Lexington Country,6,3.5,5626,0.23,2021,1528000
+LC-1608,11882 Omaha St,Frisco,TX,75035,Lexington Country,4,4.0,4016,0.3,2019,1157000
+LC-1609,12259 Wintergreen Dr,Frisco,TX,75035,Lexington Country,4,4.0,3924,0.25,2016,1170000
+LC-1610,14311 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,5,5.0,4074,0.19,2016,1264000
+LC-1611,12064 Cavalcade St,Frisco,TX,75035,Lexington Country,4,4.5,3754,0.33,2017,972000
+LC-1612,10959 Sunday Silence Way,Frisco,TX,75035,Lexington Country,3,3.5,4249,0.17,2016,1070000
+LC-1613,15311 Justify Ln,Frisco,TX,75035,Lexington Country,5,5.0,3369,0.21,2021,857000
+LC-1614,13000 Secretariat Way,Frisco,TX,75035,Lexington Country,4,5.0,3083,0.2,2021,775000
+LC-1615,11010 Spectacular Bid St,Frisco,TX,75035,Lexington Country,3,4.0,3946,0.2,2022,1005000
+LC-1616,11126 Real Quiet Dr,Frisco,TX,75035,Lexington Country,5,3.0,3298,0.24,2021,1023000
+LC-1617,11193 American Pharoah Way,Frisco,TX,75035,Lexington Country,5,5.0,5373,0.32,2022,1378000
+LC-1618,14972 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,3.0,3647,0.26,2023,1080000
+LC-1619,12719 Secretariat Way,Frisco,TX,75035,Lexington Country,5,5.0,4855,0.26,2016,1484000
+LC-1620,15541 Jonata St,Frisco,TX,75035,Lexington Country,5,4.5,3857,0.31,2018,1184000
+LC-1621,15166 Majestic Prince St,Frisco,TX,75035,Lexington Country,4,4.0,5145,0.29,2022,1426000
+LC-1622,12275 Nashua Dr,Frisco,TX,75035,Lexington Country,5,3.5,4139,0.3,2020,1132000
+LC-1623,13199 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,5.0,3876,0.28,2023,988000
+LC-1624,15743 Secretariat Way,Frisco,TX,75035,Lexington Country,5,4.5,5339,0.25,2016,1443000
+LC-1625,12479 Silver Charm St,Frisco,TX,75035,Lexington Country,5,4.5,3373,0.32,2023,973000
+LC-1626,10220 Jonata St,Frisco,TX,75035,Lexington Country,5,5.5,5273,0.28,2022,1422000
+LC-1627,15952 Count Fleet Dr,Frisco,TX,75035,Lexington Country,3,5.5,4817,0.18,2019,1318000
+LC-1628,10220 Nashua Dr,Frisco,TX,75035,Lexington Country,6,4.0,5502,0.22,2021,1545000
+LC-1629,11254 Gallahadion St,Frisco,TX,75035,Lexington Country,4,4.0,5026,0.3,2017,1406000
+LC-1630,15042 Proud Clairon St,Frisco,TX,75035,Lexington Country,4,5.0,5197,0.19,2023,1613000
+LC-1631,13974 Funny Cide St,Frisco,TX,75035,Lexington Country,3,4.5,4465,0.19,2016,1178000
+LC-1632,15319 Real Quiet Dr,Frisco,TX,75035,Lexington Country,4,4.0,3752,0.32,2019,1167000
+LC-1633,12667 Count Fleet Dr,Frisco,TX,75035,Lexington Country,5,4.5,2988,0.17,2023,889000
+LC-1634,11965 Justify Ln,Frisco,TX,75035,Lexington Country,4,3.0,3638,0.3,2016,1126000
+LC-1635,14162 Grindstone Ln,Frisco,TX,75035,Lexington Country,5,3.0,5954,0.22,2023,1497000
+LC-1636,15968 Citation Dr,Frisco,TX,75035,Lexington Country,5,5.0,5795,0.19,2019,1769000
+LC-1637,11954 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,5,3.5,5066,0.21,2020,1280000
+LC-1638,15643 Seattle Slew St,Frisco,TX,75035,Lexington Country,6,4.5,5263,0.3,2017,1369000
+LC-1639,15275 Gallahadion St,Frisco,TX,75035,Lexington Country,5,5.5,4905,0.29,2020,1421000
+LC-1640,12687 Gallahadion St,Frisco,TX,75035,Lexington Country,6,5.5,5887,0.33,2023,1842000
+LC-1641,12503 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,4.0,5115,0.2,2020,1394000
+LC-1642,15234 Assault St,Frisco,TX,75035,Lexington Country,4,5.0,4653,0.33,2018,1369000
+LC-1643,13764 American Pharoah Way,Frisco,TX,75035,Lexington Country,4,5.5,5025,0.27,2016,1475000
+LC-1644,14789 Secretariat Way,Frisco,TX,75035,Lexington Country,4,3.5,4950,0.33,2017,1519000
+LC-1645,15857 Real Quiet Dr,Frisco,TX,75035,Lexington Country,3,5.0,4827,0.31,2017,1478000
+LC-1646,15910 Pensive Ave,Frisco,TX,75035,Lexington Country,4,4.5,5860,0.34,2023,1839000
+LC-1647,11650 Proud Clairon St,Frisco,TX,75035,Lexington Country,5,4.5,5334,0.34,2017,1500000
+LC-1648,10477 Seattle Slew St,Frisco,TX,75035,Lexington Country,5,5.5,5090,0.31,2019,1406000
+LC-1649,15416 Majestic Prince St,Frisco,TX,75035,Lexington Country,5,3.5,5577,0.19,2020,1400000
+LC-1650,13391 Count Fleet Dr,Frisco,TX,75035,Lexington Country,5,4.0,3720,0.26,2017,1032000
+LC-1651,13829 Bally Ache Ln,Frisco,TX,75035,Lexington Country,3,5.0,5111,0.18,2018,1340000
+LC-1652,12242 Smarty Jones Way,Frisco,TX,75035,Lexington Country,5,3.0,4936,0.17,2017,1372000
+LC-1653,15357 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,4.5,3729,0.25,2019,1150000
+LC-1654,10615 Bold Ruler Way,Frisco,TX,75035,Lexington Country,4,5.5,4501,0.26,2021,1380000
+LC-1655,10973 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,3.5,5988,0.3,2022,1903000
+LC-1656,15655 Sir Barton Ave,Frisco,TX,75035,Lexington Country,5,5.0,5184,0.27,2017,1387000
+LC-1657,15497 Omaha St,Frisco,TX,75035,Lexington Country,5,5.0,5073,0.25,2016,1462000
+LC-1658,11890 War Admiral Ave,Frisco,TX,75035,Lexington Country,4,3.5,5205,0.31,2017,1661000
+LC-1659,15943 Affirmed Ave,Frisco,TX,75035,Lexington Country,4,3.5,5219,0.22,2020,1366000
+LC-1660,15066 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,4,4.5,3419,0.22,2020,1094000
+LC-1661,10268 Wintergreen Dr,Frisco,TX,75035,Lexington Country,4,4.5,2959,0.22,2017,916000
+LC-1662,12085 Wells Branch,Frisco,TX,75035,Lexington Country,4,3.5,3911,0.24,2020,1153000
+LC-1663,10284 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,3,5.0,4311,0.17,2017,1162000
+LC-1664,13945 Seattle Slew St,Frisco,TX,75035,Lexington Country,4,4.5,4114,0.35,2023,1142000
+LC-1665,10616 Jonata St,Frisco,TX,75035,Lexington Country,6,3.0,2860,0.18,2018,723000
+LC-1666,14050 Funny Cide St,Frisco,TX,75035,Lexington Country,5,3.5,3752,0.34,2019,1070000
+LC-1667,10609 Azra Trail,Frisco,TX,75035,Lexington Country,4,4.0,3089,0.32,2021,836000
+LC-1668,11554 Assault St,Frisco,TX,75035,Lexington Country,5,5.0,2804,0.23,2017,867000
+LC-1669,15762 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,5,4.0,5493,0.26,2022,1577000
+LC-1670,14755 Proud Clairon St,Frisco,TX,75035,Lexington Country,6,3.5,4865,0.24,2022,1492000
+LC-1671,13705 Citation Dr,Frisco,TX,75035,Lexington Country,6,5.0,5910,0.25,2017,1726000
+LC-1672,13599 Alydar Ave,Frisco,TX,75035,Lexington Country,6,4.5,4354,0.34,2022,1166000
+LC-1673,11719 Secretariat Way,Frisco,TX,75035,Lexington Country,4,3.5,3294,0.27,2023,972000
+LC-1674,15790 Funny Cide St,Frisco,TX,75035,Lexington Country,4,4.0,4012,0.23,2020,1192000
+LC-1675,12174 Omaha St,Frisco,TX,75035,Lexington Country,4,4.0,5365,0.25,2016,1423000
+LC-1676,11736 Grindstone Ln,Frisco,TX,75035,Lexington Country,5,5.5,3350,0.23,2023,889000
+LC-1677,13600 Gallahadion St,Frisco,TX,75035,Lexington Country,3,3.0,2938,0.19,2023,775000
+LC-1678,15903 Bold Ruler Way,Frisco,TX,75035,Lexington Country,3,4.5,4860,0.33,2023,1539000
+LC-1679,10342 Silver Charm St,Frisco,TX,75035,Lexington Country,6,5.5,5513,0.19,2018,1703000
+LC-1680,12445 Wintergreen Dr,Frisco,TX,75035,Lexington Country,3,3.5,5699,0.25,2018,1470000
+LC-1681,12538 Silver Charm St,Frisco,TX,75035,Lexington Country,6,5.5,4705,0.33,2016,1200000
+LC-1682,14332 Silver Charm St,Frisco,TX,75035,Lexington Country,6,4.5,4570,0.25,2019,1243000
+LC-1683,12569 Swaps Dr,Frisco,TX,75035,Lexington Country,4,4.0,3661,0.28,2017,972000
+LC-1684,15648 Cavalcade St,Frisco,TX,75035,Lexington Country,4,3.5,5042,0.33,2021,1510000
+LC-1685,12312 Justify Ln,Frisco,TX,75035,Lexington Country,5,5.0,5970,0.29,2021,1795000
+LC-1686,15951 Azra Trail,Frisco,TX,75035,Lexington Country,4,3.5,4204,0.27,2018,1205000
+LC-1687,13915 Swaps Dr,Frisco,TX,75035,Lexington Country,5,4.5,5832,0.3,2020,1728000
+LC-1688,11411 Sir Barton Ave,Frisco,TX,75035,Lexington Country,4,5.0,5305,0.22,2023,1413000
+LC-1689,12345 Box Elder Ln,Frisco,TX,75035,Lexington Country,3,4.5,3116,0.28,2017,823000
+LC-1690,12411 War Admiral Ave,Frisco,TX,75035,Lexington Country,3,5.0,5341,0.33,2022,1476000
+LC-1691,13457 Azra Trail,Frisco,TX,75035,Lexington Country,3,4.5,5090,0.22,2018,1485000
+LC-1692,14919 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,5,3.5,3459,0.22,2020,1053000
+LC-1693,15024 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,5,4.0,3310,0.32,2018,1024000
+LC-1694,15653 Azra Trail,Frisco,TX,75035,Lexington Country,4,4.5,3975,0.3,2021,1187000
+LC-1695,12094 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,4,3.0,5808,0.29,2022,1708000
+LC-1696,13990 Wells Branch,Frisco,TX,75035,Lexington Country,4,5.5,3107,0.25,2022,939000
+LC-1697,10331 Bold Ruler Way,Frisco,TX,75035,Lexington Country,6,5.0,5688,0.31,2022,1485000
+LC-1698,11815 Kaufai St,Frisco,TX,75035,Lexington Country,5,4.0,3763,0.17,2023,1114000
+LC-1699,12875 Whirlaway Dr,Frisco,TX,75035,Lexington Country,5,5.5,4252,0.17,2016,1325000
+LC-1700,14227 Real Quiet Dr,Frisco,TX,75035,Lexington Country,6,5.0,5963,0.18,2016,1549000
+LC-1701,10466 Count Fleet Dr,Frisco,TX,75035,Lexington Country,4,5.5,4400,0.27,2022,1267000
+LC-1702,10568 Silver Charm St,Frisco,TX,75035,Lexington Country,3,4.5,2817,0.26,2020,742000
+LC-1703,15707 Wintergreen Dr,Frisco,TX,75035,Lexington Country,5,4.0,5408,0.21,2020,1444000
+LC-1704,12512 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,3,4.5,5515,0.27,2022,1434000
+LC-1705,15100 Azra Trail,Frisco,TX,75035,Lexington Country,4,4.0,3755,0.17,2019,1047000
+LC-1706,13992 Bold Ruler Way,Frisco,TX,75035,Lexington Country,4,4.0,4733,0.2,2017,1273000
+LC-1707,13976 Kaufai St,Frisco,TX,75035,Lexington Country,5,3.5,5516,0.26,2018,1684000
+LC-1708,11406 Deer Trail,Frisco,TX,75035,Lexington Country,5,4.5,4254,0.2,2018,1192000
+LC-1709,13137 Seattle Slew St,Frisco,TX,75035,Lexington Country,5,4.5,3780,0.21,2022,1202000
+LC-1710,12202 Deer Trail,Frisco,TX,75035,Lexington Country,4,3.5,4717,0.23,2021,1474000
+LC-1711,13277 Wells Branch,Frisco,TX,75035,Lexington Country,6,4.0,3584,0.32,2019,966000
+LC-1712,15244 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,3.0,5357,0.24,2016,1699000
+LC-1713,13255 Gallahadion St,Frisco,TX,75035,Lexington Country,5,4.5,5327,0.22,2017,1467000
+LC-1714,12955 Proud Clairon St,Frisco,TX,75035,Lexington Country,5,4.5,3332,0.23,2023,984000
+LC-1715,15351 Kaufai St,Frisco,TX,75035,Lexington Country,4,5.0,5614,0.31,2022,1711000
+LC-1716,14496 Proud Clairon St,Frisco,TX,75035,Lexington Country,3,5.0,4695,0.25,2023,1199000
+LC-1717,10917 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,4,3.5,2805,0.21,2019,813000
+LC-1718,10619 Cavalcade St,Frisco,TX,75035,Lexington Country,5,5.5,3222,0.3,2017,970000
+LC-1719,11676 Count Fleet Dr,Frisco,TX,75035,Lexington Country,3,4.5,5098,0.34,2018,1394000
+LC-1720,13186 Whirlaway Dr,Frisco,TX,75035,Lexington Country,4,4.0,3042,0.33,2019,789000
+LC-1721,15519 Omaha St,Frisco,TX,75035,Lexington Country,4,4.5,2854,0.19,2018,789000
+LC-1722,14373 Box Elder Ln,Frisco,TX,75035,Lexington Country,5,5.5,3920,0.26,2023,1158000
+LC-1723,10987 Bally Ache Ln,Frisco,TX,75035,Lexington Country,5,5.0,4212,0.34,2023,1209000
+LC-1724,11099 Secretariat Way,Frisco,TX,75035,Lexington Country,5,5.5,4508,0.35,2016,1208000
+LC-1725,13376 Majestic Prince St,Frisco,TX,75035,Lexington Country,4,3.5,3065,0.26,2016,896000
+LC-1726,10998 Bally Ache Ln,Frisco,TX,75035,Lexington Country,5,3.0,4641,0.26,2019,1177000
+LC-1727,13351 Citation Dr,Frisco,TX,75035,Lexington Country,5,4.0,4797,0.17,2017,1490000
+LC-1728,13383 Funny Cide St,Frisco,TX,75035,Lexington Country,6,3.5,5432,0.32,2018,1383000
+LC-1729,11319 Secretariat Way,Frisco,TX,75035,Lexington Country,5,5.5,4198,0.27,2021,1188000
+LC-1730,10809 Nashua Dr,Frisco,TX,75035,Lexington Country,5,4.5,4726,0.18,2023,1289000
+LC-1731,11634 Omaha St,Frisco,TX,75035,Lexington Country,4,5.0,5749,0.24,2016,1523000
+LC-1732,10634 Count Fleet Dr,Frisco,TX,75035,Lexington Country,6,4.5,5334,0.17,2023,1525000
+LC-1733,15832 American Pharoah Way,Frisco,TX,75035,Lexington Country,5,4.5,4732,0.22,2019,1382000
+LC-1734,10056 Cavalcade St,Frisco,TX,75035,Lexington Country,5,4.0,5332,0.19,2020,1538000
+LC-1735,14036 Grindstone Ln,Frisco,TX,75035,Lexington Country,4,5.5,3319,0.25,2021,896000
+LC-1736,10770 Assault St,Frisco,TX,75035,Lexington Country,4,4.5,5488,0.32,2022,1739000
+LC-1737,13001 Proud Clairon St,Frisco,TX,75035,Lexington Country,5,4.0,5904,0.2,2019,1615000
+LC-1738,14947 Sir Barton Ave,Frisco,TX,75035,Lexington Country,5,5.0,3610,0.22,2017,1112000
+LC-1739,13927 Majestic Prince St,Frisco,TX,75035,Lexington Country,4,4.0,3409,0.2,2017,890000
+LC-1740,14806 Cavalcade St,Frisco,TX,75035,Lexington Country,5,4.5,5543,0.22,2020,1673000
+LC-1741,13410 Spectacular Bid St,Frisco,TX,75035,Lexington Country,5,4.0,5038,0.25,2016,1571000
+LC-1742,14647 Majestic Prince St,Frisco,TX,75035,Lexington Country,5,4.5,4417,0.25,2022,1174000
+LC-1743,10313 Sunday Silence Way,Frisco,TX,75035,Lexington Country,5,4.5,3088,0.17,2022,977000
+LC-1744,12731 Funny Cide St,Frisco,TX,75035,Lexington Country,4,4.5,3554,0.3,2017,927000
+LC-1745,13334 Citation Dr,Frisco,TX,75035,Lexington Country,6,4.0,4915,0.25,2021,1257000
+LC-1746,11187 Smarty Jones Way,Frisco,TX,75035,Lexington Country,6,5.0,3304,0.24,2019,995000
+LC-1747,13752 Swaps Dr,Frisco,TX,75035,Lexington Country,5,3.5,3819,0.35,2016,960000
+LC-1748,13063 Swaps Dr,Frisco,TX,75035,Lexington Country,3,4.0,5359,0.27,2023,1391000
+LC-1749,10557 Grindstone Ln,Frisco,TX,75035,Lexington Country,5,5.5,3380,0.27,2020,945000
+LC-1750,15410 Lexington Ave,Frisco,TX,75035,Lexington Country,5,3.5,5758,0.3,2023,1709000
+LC-1751,13581 Gallahadion St,Frisco,TX,75035,Lexington Country,4,5.0,5802,0.32,2019,1629000
+LC-1752,10891 American Pharoah Way,Frisco,TX,75035,Lexington Country,3,3.0,5276,0.34,2016,1653000
+LC-1753,13598 Nashua Dr,Frisco,TX,75035,Lexington Country,5,5.5,3232,0.19,2017,1034000
+LC-1754,10076 War Admiral Ave,Frisco,TX,75035,Lexington Country,4,3.5,3092,0.25,2017,926000
+LC-1755,15298 Funny Cide St,Frisco,TX,75035,Lexington Country,5,4.5,5249,0.27,2018,1446000
+LC-1756,11439 Assault St,Frisco,TX,75035,Lexington Country,5,4.5,5685,0.25,2017,1567000
+LC-1757,14905 Justify Ln,Frisco,TX,75035,Lexington Country,3,3.5,4384,0.22,2017,1325000
+LC-1758,10248 Majestic Prince St,Frisco,TX,75035,Lexington Country,4,3.0,3364,0.21,2018,927000
+LC-1759,10703 Kaufai St,Frisco,TX,75035,Lexington Country,5,4.0,5825,0.29,2022,1696000
+LC-1760,12314 Secretariat Way,Frisco,TX,75035,Lexington Country,6,5.0,3802,0.27,2019,1161000
+LC-1761,14790 Nashua Dr,Frisco,TX,75035,Lexington Country,5,5.5,3352,0.3,2023,844000
+LC-1762,15658 Silver Charm St,Frisco,TX,75035,Lexington Country,5,5.0,5988,0.28,2020,1497000
+LC-1763,10808 Justify Ln,Frisco,TX,75035,Lexington Country,5,3.5,5021,0.2,2021,1454000
+LC-1764,13024 Cavalcade St,Frisco,TX,75035,Lexington Country,6,4.5,5520,0.29,2020,1735000
+LC-1765,11846 Omaha St,Frisco,TX,75035,Lexington Country,3,4.5,3361,0.18,2020,859000
+LC-1766,15248 Wintergreen Dr,Frisco,TX,75035,Lexington Country,4,4.5,3859,0.29,2016,1231000
+LC-1767,10713 Justify Ln,Frisco,TX,75035,Lexington Country,5,3.5,2868,0.33,2016,805000
+LC-1768,14716 Real Quiet Dr,Frisco,TX,75035,Lexington Country,5,3.0,2991,0.29,2017,881000
+LC-1769,10266 Nashua Dr,Frisco,TX,75035,Lexington Country,6,4.0,3707,0.21,2021,1118000
+LC-1770,11910 Smarty Jones Way,Frisco,TX,75035,Lexington Country,5,4.5,3856,0.32,2020,1001000
+LC-1771,11992 Jonata St,Frisco,TX,75035,Lexington Country,4,5.0,3439,0.33,2022,1028000
+LC-1772,10552 Sunday Silence Way,Frisco,TX,75035,Lexington Country,5,4.5,2895,0.3,2021,916000
+LC-1773,12343 Nashua Dr,Frisco,TX,75035,Lexington Country,6,5.0,3555,0.28,2020,999000
+LC-1774,10065 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,6,3.0,3844,0.3,2016,1200000
+LC-1775,10189 Box Elder Ln,Frisco,TX,75035,Lexington Country,5,3.5,4958,0.32,2020,1317000
+LC-1776,15182 Funny Cide St,Frisco,TX,75035,Lexington Country,6,5.0,5395,0.21,2016,1469000
+LC-1777,13408 Sir Barton Ave,Frisco,TX,75035,Lexington Country,4,5.0,3608,0.33,2022,1114000
+LC-1778,12785 Omaha St,Frisco,TX,75035,Lexington Country,5,3.5,3330,0.28,2019,944000
+LC-1779,10764 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,3,4.0,3942,0.27,2020,1007000
+LC-1780,15966 Bally Ache Ln,Frisco,TX,75035,Lexington Country,3,4.5,5612,0.25,2018,1780000
+LC-1781,12842 Nashua Dr,Frisco,TX,75035,Lexington Country,5,5.0,5359,0.26,2023,1353000
+LC-1782,13135 Bally Ache Ln,Frisco,TX,75035,Lexington Country,3,3.0,5170,0.23,2017,1348000
+LC-1783,10849 War Admiral Ave,Frisco,TX,75035,Lexington Country,4,5.0,5918,0.25,2016,1521000
+LC-1784,15511 Silver Charm Ave,Frisco,TX,75035,Lexington Country,4,5.5,4039,0.3,2023,1032000
+LC-1785,13120 Bold Ruler Way,Frisco,TX,75035,Lexington Country,5,4.0,4710,0.33,2016,1267000
+LC-1786,13026 Assault St,Frisco,TX,75035,Lexington Country,4,5.5,2847,0.35,2022,840000
+LC-1787,15331 Smarty Jones Way,Frisco,TX,75035,Lexington Country,5,4.0,5247,0.21,2018,1654000
+LC-1788,13302 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,5,5.0,5796,0.25,2022,1522000
+LC-1789,13291 Sir Barton Ave,Frisco,TX,75035,Lexington Country,5,5.0,4919,0.2,2022,1477000
+LC-1790,15082 Omaha St,Frisco,TX,75035,Lexington Country,5,5.5,4191,0.35,2016,1078000
+LC-1791,13199 Gallahadion St,Frisco,TX,75035,Lexington Country,4,5.0,5600,0.3,2019,1684000
+LC-1792,15050 Nashua Dr,Frisco,TX,75035,Lexington Country,5,3.5,4830,0.24,2018,1315000
+LC-1793,10202 Lexington Ave,Frisco,TX,75035,Lexington Country,3,5.0,4763,0.23,2021,1332000
+LC-1794,10918 Nashua Dr,Frisco,TX,75035,Lexington Country,4,5.5,3939,0.28,2017,1126000
+LC-1795,12140 Nashua Dr,Frisco,TX,75035,Lexington Country,5,3.5,5051,0.23,2022,1333000
+LC-1796,14077 Pensive Ave,Frisco,TX,75035,Lexington Country,5,5.0,3073,0.23,2020,799000
+LC-1797,11374 Smarty Jones Way,Frisco,TX,75035,Lexington Country,4,5.0,3165,0.26,2019,815000
+LC-1798,10750 Wells Branch,Frisco,TX,75035,Lexington Country,4,5.0,4370,0.25,2016,1302000
+LC-1799,15688 Real Quiet Dr,Frisco,TX,75035,Lexington Country,3,4.0,5091,0.28,2020,1275000
+LC-1800,11605 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,5,4.5,3008,0.29,2022,926000
+LC-1801,14660 Bally Ache Ln,Frisco,TX,75035,Lexington Country,5,5.0,4603,0.31,2016,1180000
+LC-1802,14693 Spectacular Bid St,Frisco,TX,75035,Lexington Country,5,3.0,4974,0.17,2017,1494000
+LC-1803,12073 Wells Branch,Frisco,TX,75035,Lexington Country,6,3.0,4939,0.26,2022,1432000
+LC-1804,15727 Wintergreen Dr,Frisco,TX,75035,Lexington Country,5,5.0,5777,0.28,2016,1818000
+LC-1805,10055 Wintergreen Dr,Frisco,TX,75035,Lexington Country,5,5.0,3893,0.33,2017,1106000
+LC-1806,12478 Real Quiet Dr,Frisco,TX,75035,Lexington Country,5,3.0,5919,0.17,2023,1536000
+LC-1807,11735 Majestic Prince St,Frisco,TX,75035,Lexington Country,5,3.5,2945,0.33,2018,895000
+LC-1808,12527 Sunday Silence Way,Frisco,TX,75035,Lexington Country,6,4.0,5822,0.3,2017,1762000
+LC-1809,13877 Azra Trail,Frisco,TX,75035,Lexington Country,6,5.0,4401,0.17,2019,1123000
+LC-1810,10970 Omaha St,Frisco,TX,75035,Lexington Country,4,3.5,4258,0.24,2016,1156000
+LC-1811,14409 Bold Ruler Way,Frisco,TX,75035,Lexington Country,5,3.5,4309,0.28,2019,1354000
+LC-1812,12381 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,5,3.5,5236,0.34,2019,1527000
+LC-1813,12633 Sunday Silence Way,Frisco,TX,75035,Lexington Country,5,5.0,3380,0.17,2020,941000
+LC-1814,13905 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,3.5,5198,0.18,2018,1663000
+LC-1815,15706 Nashua Dr,Frisco,TX,75035,Lexington Country,5,5.0,5802,0.21,2020,1783000
+LC-1816,15439 Proud Clairon St,Frisco,TX,75035,Lexington Country,3,4.5,4515,0.19,2019,1378000
+LC-1817,11984 Azra Trail,Frisco,TX,75035,Lexington Country,5,4.5,3255,0.26,2023,1012000
+LC-1818,11617 Deer Trail,Frisco,TX,75035,Lexington Country,5,5.0,3628,0.31,2019,961000
+LC-1819,14634 Grindstone Ln,Frisco,TX,75035,Lexington Country,6,3.5,4563,0.32,2017,1395000
+LC-1820,13221 Azra Trail,Frisco,TX,75035,Lexington Country,4,3.5,3677,0.33,2021,982000
+LC-1821,10019 Grindstone Ln,Frisco,TX,75035,Lexington Country,6,3.5,5208,0.33,2016,1347000
+LC-1822,13428 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,4.0,5748,0.31,2022,1791000
+LC-1823,11883 War Admiral Ave,Frisco,TX,75035,Lexington Country,3,5.0,4103,0.2,2018,1293000
+LC-1824,11252 American Pharoah Way,Frisco,TX,75035,Lexington Country,3,4.5,4208,0.22,2021,1251000
+LC-1825,14900 Citation Dr,Frisco,TX,75035,Lexington Country,5,4.0,5807,0.2,2019,1647000
+LC-1826,10844 Citation Dr,Frisco,TX,75035,Lexington Country,5,5.5,3710,0.21,2022,1045000
+LC-1827,13727 Real Quiet Dr,Frisco,TX,75035,Lexington Country,4,4.5,3897,0.32,2017,1082000
+LC-1828,15293 Azra Trail,Frisco,TX,75035,Lexington Country,4,4.5,4607,0.2,2016,1194000
+LC-1829,15777 Kaufai St,Frisco,TX,75035,Lexington Country,4,3.5,3168,0.17,2018,801000
+LC-1830,15477 Box Elder Ln,Frisco,TX,75035,Lexington Country,4,4.5,4101,0.21,2017,1282000
+LC-1831,13945 Wells Branch,Frisco,TX,75035,Lexington Country,6,5.5,2879,0.31,2018,734000
+LC-1832,11169 Bold Ruler Way,Frisco,TX,75035,Lexington Country,5,4.5,4081,0.29,2021,1178000
+LC-1833,12779 Bold Ruler Way,Frisco,TX,75035,Lexington Country,5,5.0,4543,0.23,2021,1142000
+LC-1834,13078 Proud Clairon St,Frisco,TX,75035,Lexington Country,5,5.0,4127,0.33,2019,1034000
+LC-1835,10530 Cavalcade St,Frisco,TX,75035,Lexington Country,4,5.5,5941,0.25,2016,1623000
+LC-1836,11387 Smarty Jones Way,Frisco,TX,75035,Lexington Country,5,4.5,5506,0.2,2020,1542000
+LC-1837,12108 Wintergreen Dr,Frisco,TX,75035,Lexington Country,3,4.5,4544,0.25,2021,1169000
+LC-1838,13631 War Admiral Ave,Frisco,TX,75035,Lexington Country,5,4.0,3490,0.32,2016,892000
+LC-1839,15304 Funny Cide St,Frisco,TX,75035,Lexington Country,5,4.5,5692,0.28,2018,1766000
+LC-1840,11049 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,5,5.0,3409,0.29,2017,1007000
+LC-1841,11401 Jonata St,Frisco,TX,75035,Lexington Country,5,4.0,3836,0.29,2023,1095000
+LC-1842,10247 Pensive Ave,Frisco,TX,75035,Lexington Country,5,5.0,4627,0.18,2019,1431000
+LC-1843,11825 Cavalcade St,Frisco,TX,75035,Lexington Country,5,3.0,5434,0.23,2018,1705000
+LC-1844,12888 Silver Charm Ave,Frisco,TX,75035,Lexington Country,3,4.5,3259,0.17,2018,827000
+LC-1845,11485 War Admiral Ave,Frisco,TX,75035,Lexington Country,5,5.5,5960,0.24,2022,1829000
+LC-1846,15933 Bally Ache Ln,Frisco,TX,75035,Lexington Country,6,4.5,2825,0.26,2020,880000
+LC-1847,14676 Justify Ln,Frisco,TX,75035,Lexington Country,5,5.0,5101,0.3,2017,1438000
+LC-1848,15619 Whirlaway Dr,Frisco,TX,75035,Lexington Country,5,4.0,4124,0.22,2018,1225000
+LC-1849,15048 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,5.0,3315,0.22,2019,999000
+LC-1850,10834 Proud Clairon St,Frisco,TX,75035,Lexington Country,3,5.0,4376,0.31,2016,1400000
+LC-1851,12298 Swaps Dr,Frisco,TX,75035,Lexington Country,6,5.5,4050,0.25,2016,1102000
+LC-1852,12288 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,5,3.5,5183,0.27,2018,1549000
+LC-1853,13751 Real Quiet Dr,Frisco,TX,75035,Lexington Country,5,3.5,4901,0.31,2023,1296000
+LC-1854,15176 Funny Cide St,Frisco,TX,75035,Lexington Country,4,4.0,5793,0.21,2016,1472000
+LC-1855,15860 Spectacular Bid St,Frisco,TX,75035,Lexington Country,4,4.5,4428,0.21,2016,1412000
+LC-1856,15245 Seattle Slew St,Frisco,TX,75035,Lexington Country,3,5.0,3878,0.32,2017,1001000
+LC-1857,11611 Lexington Ave,Frisco,TX,75035,Lexington Country,5,3.0,5249,0.34,2023,1677000
+LC-1858,15693 Pensive Ave,Frisco,TX,75035,Lexington Country,4,3.0,5273,0.26,2016,1445000
+LC-1859,10703 Sunday Silence Way,Frisco,TX,75035,Lexington Country,3,3.0,5057,0.21,2016,1587000
+LC-1860,13632 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,5,5.5,3727,0.25,2023,1141000
+LC-1861,15048 Bold Ruler Way,Frisco,TX,75035,Lexington Country,4,4.5,5074,0.28,2018,1391000
+LC-1862,10243 Sunday Silence Way,Frisco,TX,75035,Lexington Country,4,3.5,4841,0.29,2017,1399000
+LC-1863,15440 Deer Trail,Frisco,TX,75035,Lexington Country,4,4.5,3685,0.28,2022,1095000
+LC-1864,13394 Affirmed Ave,Frisco,TX,75035,Lexington Country,4,5.0,5804,0.23,2016,1830000
+LC-1865,13368 American Pharoah Way,Frisco,TX,75035,Lexington Country,4,4.0,4358,0.18,2017,1328000
+LC-1866,14712 War Admiral Ave,Frisco,TX,75035,Lexington Country,4,4.0,5967,0.18,2017,1751000
+LC-1867,12881 Justify Ln,Frisco,TX,75035,Lexington Country,6,5.0,3593,0.17,2019,940000
+LC-1868,15988 Citation Dr,Frisco,TX,75035,Lexington Country,3,5.5,3536,0.32,2018,1009000
+LC-1869,14784 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,5,3.5,3424,0.18,2021,901000
+LC-1870,12744 Silver Charm Ave,Frisco,TX,75035,Lexington Country,5,3.5,3662,0.24,2017,1152000
+LC-1871,12428 Assault St,Frisco,TX,75035,Lexington Country,6,3.5,3481,0.3,2023,988000
+LC-1872,14052 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,5,3.5,3309,0.29,2022,1016000
+LC-1873,10444 American Pharoah Way,Frisco,TX,75035,Lexington Country,5,5.5,5991,0.28,2022,1640000
+LC-1874,11008 Deer Trail,Frisco,TX,75035,Lexington Country,5,5.0,4363,0.29,2020,1116000
+LC-1875,11603 Count Fleet Dr,Frisco,TX,75035,Lexington Country,5,4.0,3989,0.33,2023,1126000
+LC-1876,14590 Swaps Dr,Frisco,TX,75035,Lexington Country,5,5.5,3164,0.22,2021,871000
+LC-1877,15540 Kaufai St,Frisco,TX,75035,Lexington Country,6,3.0,2818,0.25,2017,770000
+LC-1878,13851 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,5,5.0,5111,0.17,2018,1601000
+LC-1879,15078 Swaps Dr,Frisco,TX,75035,Lexington Country,6,4.5,5094,0.2,2016,1452000
+LC-1880,10686 Bold Ruler Way,Frisco,TX,75035,Lexington Country,5,5.5,4076,0.16,2020,1128000
+LC-1881,10398 Cavalcade St,Frisco,TX,75035,Lexington Country,4,4.0,4249,0.17,2022,1325000
+LC-1882,14491 Real Quiet Dr,Frisco,TX,75035,Lexington Country,5,5.0,4169,0.35,2021,1295000
+LC-1883,13379 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,4,5.0,3063,0.34,2020,879000
+LC-1884,12763 Nashua Dr,Frisco,TX,75035,Lexington Country,4,4.5,4704,0.26,2020,1346000
+LC-1885,13807 American Pharoah Way,Frisco,TX,75035,Lexington Country,5,5.0,5606,0.31,2022,1696000
+LC-1886,11645 Swaps Dr,Frisco,TX,75035,Lexington Country,5,4.5,5939,0.29,2023,1862000
+LC-1887,14876 Wells Branch,Frisco,TX,75035,Lexington Country,5,5.0,3948,0.24,2020,993000
+LC-1888,14194 Count Fleet Dr,Frisco,TX,75035,Lexington Country,4,5.0,4297,0.33,2018,1236000
+LC-1889,11397 Sir Barton Ave,Frisco,TX,75035,Lexington Country,3,3.5,4026,0.23,2021,1052000
+LC-1890,14304 Real Quiet Dr,Frisco,TX,75035,Lexington Country,4,3.0,5129,0.33,2018,1383000
+LC-1891,12551 Nashua Dr,Frisco,TX,75035,Lexington Country,4,3.5,4043,0.3,2016,1064000
+LC-1892,12834 Gallahadion St,Frisco,TX,75035,Lexington Country,3,3.5,5421,0.22,2017,1713000
+LC-1893,13474 Bally Ache Ln,Frisco,TX,75035,Lexington Country,5,3.5,4645,0.2,2021,1271000
+LC-1894,14742 War Admiral Ave,Frisco,TX,75035,Lexington Country,6,5.5,3482,0.17,2016,966000
+LC-1895,11400 Grindstone Ln,Frisco,TX,75035,Lexington Country,4,5.0,5396,0.24,2023,1547000
+LC-1896,11108 Gallahadion St,Frisco,TX,75035,Lexington Country,5,5.5,5520,0.26,2017,1387000
+LC-1897,14000 Funny Cide St,Frisco,TX,75035,Lexington Country,3,5.5,5589,0.32,2016,1467000
+LC-1898,10264 Pensive Ave,Frisco,TX,75035,Lexington Country,5,4.5,5065,0.21,2021,1318000
+LC-1899,12115 War Admiral Ave,Frisco,TX,75035,Lexington Country,5,4.0,3181,0.25,2021,947000
+LC-1900,11559 American Pharoah Way,Frisco,TX,75035,Lexington Country,3,5.5,5043,0.2,2023,1612000
+LC-1901,11552 Funny Cide St,Frisco,TX,75035,Lexington Country,5,4.5,5387,0.24,2016,1678000
+LC-1902,12965 Alydar Ave,Frisco,TX,75035,Lexington Country,4,4.0,6000,0.23,2016,1833000
+LC-1903,15506 Affirmed Ave,Frisco,TX,75035,Lexington Country,4,5.0,5986,0.22,2020,1693000
+LC-1904,15691 Wintergreen Dr,Frisco,TX,75035,Lexington Country,4,5.5,4931,0.22,2017,1269000
+LC-1905,14178 Secretariat Way,Frisco,TX,75035,Lexington Country,5,3.5,3822,0.26,2022,1198000
+LC-1906,12484 Proud Clairon St,Frisco,TX,75035,Lexington Country,5,4.0,3690,0.24,2021,1076000
+LC-1907,13970 Spectacular Bid St,Frisco,TX,75035,Lexington Country,5,3.5,4950,0.25,2019,1515000
+LC-1908,13520 Smarty Jones Way,Frisco,TX,75035,Lexington Country,4,5.0,4491,0.33,2023,1215000
+LC-1909,15055 Omaha St,Frisco,TX,75035,Lexington Country,4,5.0,3565,0.18,2023,911000
+LC-1910,10234 Jonata St,Frisco,TX,75035,Lexington Country,5,4.0,4694,0.24,2023,1359000
+LC-1911,15363 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,4,4.0,2973,0.3,2018,832000
+LC-1912,14795 Silver Charm St,Frisco,TX,75035,Lexington Country,5,3.5,3767,0.18,2020,1046000
+LC-1913,14827 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,5,5.0,4523,0.26,2023,1356000
+LC-1914,15770 Silver Charm Ave,Frisco,TX,75035,Lexington Country,6,4.0,5520,0.21,2017,1669000
+LC-1915,11634 Deer Trail,Frisco,TX,75035,Lexington Country,3,3.5,3082,0.33,2016,861000
+LC-1916,11852 Whirlaway Dr,Frisco,TX,75035,Lexington Country,5,4.0,3899,0.31,2022,1145000
+LC-1917,14077 Citation Dr,Frisco,TX,75035,Lexington Country,6,4.0,5003,0.26,2018,1491000
+LC-1918,13515 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,4.0,3992,0.27,2022,1145000
+LC-1919,10728 Citation Dr,Frisco,TX,75035,Lexington Country,5,5.5,3655,0.25,2023,1044000
+LC-1920,10628 Secretariat Way,Frisco,TX,75035,Lexington Country,5,4.5,2801,0.23,2016,861000
+LC-1921,11765 Bold Ruler Way,Frisco,TX,75035,Lexington Country,4,4.0,5777,0.21,2021,1665000
+LC-1922,13988 Box Elder Ln,Frisco,TX,75035,Lexington Country,4,3.5,4794,0.22,2022,1226000
+LC-1923,14789 Bold Ruler Way,Frisco,TX,75035,Lexington Country,4,3.5,3351,0.31,2019,957000
+LC-1924,13247 Assault St,Frisco,TX,75035,Lexington Country,3,5.5,4717,0.25,2017,1221000
+LC-1925,11703 American Pharoah Way,Frisco,TX,75035,Lexington Country,3,4.5,3816,0.18,2019,1134000
+LC-1926,13484 Spectacular Bid St,Frisco,TX,75035,Lexington Country,4,4.0,5131,0.34,2022,1379000
+LC-1927,13350 Kaufai St,Frisco,TX,75035,Lexington Country,6,5.0,4326,0.22,2020,1217000
+LC-1928,10242 Seattle Slew St,Frisco,TX,75035,Lexington Country,6,3.5,4531,0.29,2017,1294000
+LC-1929,11231 Wells Branch,Frisco,TX,75035,Lexington Country,5,5.5,3117,0.32,2022,863000
+LC-1930,15196 Silver Charm Ave,Frisco,TX,75035,Lexington Country,3,4.5,2854,0.19,2022,882000
+LC-1931,14803 Secretariat Way,Frisco,TX,75035,Lexington Country,5,4.0,4261,0.29,2021,1297000
+LC-1932,12627 Seattle Slew St,Frisco,TX,75035,Lexington Country,3,5.0,4050,0.35,2016,1081000
+LC-1933,10498 Nashua Dr,Frisco,TX,75035,Lexington Country,4,5.0,3469,0.21,2019,1018000
+LC-1934,11283 Pensive Ave,Frisco,TX,75035,Lexington Country,4,5.0,4751,0.33,2023,1190000
+LC-1935,13450 Secretariat Way,Frisco,TX,75035,Lexington Country,5,5.0,3998,0.29,2020,1092000
+LC-1936,12537 Smarty Jones Way,Frisco,TX,75035,Lexington Country,6,3.0,5222,0.19,2021,1386000
+LC-1937,12791 Funny Cide St,Frisco,TX,75035,Lexington Country,5,5.0,5109,0.24,2019,1329000
+LC-1938,15798 Sir Barton Ave,Frisco,TX,75035,Lexington Country,4,5.0,3887,0.21,2022,1049000
+LC-1939,11588 Whirlaway Dr,Frisco,TX,75035,Lexington Country,6,4.5,5033,0.31,2019,1324000
+LC-1940,14073 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,5,5.5,3565,0.2,2017,1071000
+LC-1941,13950 Azra Trail,Frisco,TX,75035,Lexington Country,5,4.0,5056,0.2,2022,1483000
+LC-1942,14526 Citation Dr,Frisco,TX,75035,Lexington Country,3,4.5,4809,0.23,2023,1241000
+LC-1943,14301 Assault St,Frisco,TX,75035,Lexington Country,5,4.5,3746,0.3,2016,1033000
+LC-1944,11607 Box Elder Ln,Frisco,TX,75035,Lexington Country,5,4.0,5706,0.22,2023,1468000
+LC-1945,11474 American Pharoah Way,Frisco,TX,75035,Lexington Country,4,4.5,4659,0.29,2020,1291000
+LC-1946,12117 American Pharoah Way,Frisco,TX,75035,Lexington Country,6,3.0,3078,0.26,2023,834000
+LC-1947,13530 Pensive Ave,Frisco,TX,75035,Lexington Country,4,3.5,4352,0.34,2021,1229000
+LC-1948,11026 Lexington Ave,Frisco,TX,75035,Lexington Country,3,5.0,4955,0.19,2019,1370000
+LC-1949,10525 Proud Clairon St,Frisco,TX,75035,Lexington Country,5,5.5,5555,0.34,2018,1685000
+LC-1950,11070 Bally Ache Ln,Frisco,TX,75035,Lexington Country,3,3.5,4473,0.17,2022,1358000
+LC-1951,11245 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,5.0,3919,0.27,2019,1052000
+LC-1952,10053 Spectacular Bid St,Frisco,TX,75035,Lexington Country,4,3.5,5663,0.2,2020,1807000
+LC-1953,10984 Box Elder Ln,Frisco,TX,75035,Lexington Country,5,4.0,3714,0.17,2021,1172000
+LC-1954,15679 Grindstone Ln,Frisco,TX,75035,Lexington Country,4,5.0,4771,0.19,2021,1430000
+LC-1955,13731 Jonata St,Frisco,TX,75035,Lexington Country,5,4.0,3456,0.22,2016,1038000
+LC-1956,13530 Alydar Ave,Frisco,TX,75035,Lexington Country,5,5.0,2949,0.3,2021,754000
+LC-1957,13326 Proud Clairon St,Frisco,TX,75035,Lexington Country,4,3.5,4350,0.32,2021,1227000
+LC-1958,15005 Seattle Slew St,Frisco,TX,75035,Lexington Country,6,4.5,4923,0.26,2016,1473000
+LC-1959,14591 Box Elder Ln,Frisco,TX,75035,Lexington Country,5,5.5,2810,0.25,2022,892000
+LC-1960,14614 Bally Ache Ln,Frisco,TX,75035,Lexington Country,3,5.5,3294,0.32,2016,1049000
+LC-1961,11447 Spectacular Bid St,Frisco,TX,75035,Lexington Country,5,4.0,4938,0.31,2017,1483000
+LC-1962,10199 Smarty Jones Way,Frisco,TX,75035,Lexington Country,3,3.0,5987,0.22,2023,1668000
+LC-1963,10915 Swaps Dr,Frisco,TX,75035,Lexington Country,3,4.0,3935,0.16,2022,1159000
+LC-1964,11985 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,3,3.5,5647,0.24,2020,1619000
+LC-1965,12349 Smarty Jones Way,Frisco,TX,75035,Lexington Country,3,4.5,4775,0.28,2022,1235000
+LC-1966,10048 Proud Clairon St,Frisco,TX,75035,Lexington Country,5,5.5,4646,0.27,2020,1171000
+LC-1967,15137 Citation Dr,Frisco,TX,75035,Lexington Country,4,4.0,5624,0.34,2017,1409000
+LC-1968,13099 Nashua Dr,Frisco,TX,75035,Lexington Country,5,3.0,5427,0.16,2023,1396000
+LC-1969,15640 American Pharoah Way,Frisco,TX,75035,Lexington Country,4,5.5,5492,0.33,2017,1529000
+LC-1970,11282 Azra Trail,Frisco,TX,75035,Lexington Country,5,5.5,5872,0.3,2018,1606000
+LC-1971,11332 Wells Branch,Frisco,TX,75035,Lexington Country,5,4.0,5600,0.29,2021,1705000
+LC-1972,10850 Grindstone Ln,Frisco,TX,75035,Lexington Country,5,3.5,4251,0.24,2017,1091000
+LC-1973,12370 Justify Ln,Frisco,TX,75035,Lexington Country,6,5.0,5750,0.18,2017,1499000
+LC-1974,11073 Proud Clairon St,Frisco,TX,75035,Lexington Country,5,3.5,5595,0.21,2019,1425000
+LC-1975,11745 Bally Ache Ln,Frisco,TX,75035,Lexington Country,4,5.0,3234,0.22,2022,979000
+LC-1976,14629 Deer Trail,Frisco,TX,75035,Lexington Country,3,5.0,3921,0.25,2020,1056000
+LC-1977,13629 Bally Ache Ln,Frisco,TX,75035,Lexington Country,3,5.5,3904,0.19,2020,1126000
+LC-1978,13306 Grindstone Ln,Frisco,TX,75035,Lexington Country,4,4.0,3402,0.17,2023,871000
+LC-1979,11288 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,5,4.5,4407,0.17,2023,1210000
+LC-1980,10435 Nashua Dr,Frisco,TX,75035,Lexington Country,6,4.5,4578,0.23,2021,1302000
+LC-1981,12847 Spectacular Bid St,Frisco,TX,75035,Lexington Country,3,4.5,3792,0.25,2018,1106000
+LC-1982,15464 Proud Clairon St,Frisco,TX,75035,Lexington Country,6,4.0,5445,0.26,2016,1531000
+LC-1983,11007 War Admiral Ave,Frisco,TX,75035,Lexington Country,4,5.0,3791,0.27,2017,1196000
+LC-1984,15882 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,6,3.5,4048,0.22,2020,1094000
+LC-1985,10477 Secretariat Way,Frisco,TX,75035,Lexington Country,3,4.0,3112,0.28,2022,946000
+LC-1986,12721 Tim Tam Dr,Frisco,TX,75035,Lexington Country,3,3.5,5327,0.25,2017,1703000
+LC-1987,11577 Sir Barton Ave,Frisco,TX,75035,Lexington Country,5,5.0,3875,0.2,2016,1064000
+LC-1988,10532 Majestic Prince St,Frisco,TX,75035,Lexington Country,5,5.0,3028,0.26,2020,847000
+LC-1989,13458 Swaps Dr,Frisco,TX,75035,Lexington Country,4,3.5,4537,0.33,2017,1446000
+LC-1990,14699 Affirmed Ave,Frisco,TX,75035,Lexington Country,6,3.5,2959,0.28,2022,820000
+LC-1991,11273 Count Fleet Dr,Frisco,TX,75035,Lexington Country,3,4.0,5265,0.17,2019,1544000
+LC-1992,14993 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,4,5.0,2873,0.2,2016,781000
+LC-1993,11668 Deer Trail,Frisco,TX,75035,Lexington Country,3,4.5,4270,0.29,2023,1281000
+LC-1994,10957 Assault St,Frisco,TX,75035,Lexington Country,4,4.5,4858,0.29,2018,1297000
+LC-1995,12447 Cavalcade St,Frisco,TX,75035,Lexington Country,5,4.5,3874,0.17,2021,1208000
+LC-1996,13186 War Admiral Ave,Frisco,TX,75035,Lexington Country,4,4.5,5643,0.25,2018,1492000
+LC-1997,13342 Wells Branch,Frisco,TX,75035,Lexington Country,5,4.0,3468,0.29,2022,916000
+LC-1998,13287 Bold Ruler Way,Frisco,TX,75035,Lexington Country,4,5.0,5891,0.35,2021,1707000
+LC-1999,15632 Sir Barton Ave,Frisco,TX,75035,Lexington Country,4,5.5,3921,0.31,2022,1047000
+LC-2000,11791 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,4,5.0,5814,0.3,2019,1519000
+LC-2001,14827 War Admiral Ave,Frisco,TX,75035,Lexington Country,5,5.0,3828,0.32,2018,1206000
+LC-2002,13738 Omaha St,Frisco,TX,75035,Lexington Country,5,5.5,5901,0.31,2016,1684000
+LC-2003,15531 Azra Trail,Frisco,TX,75035,Lexington Country,5,3.5,2803,0.31,2022,847000
+LC-2004,12411 Grindstone Ln,Frisco,TX,75035,Lexington Country,4,3.5,2916,0.27,2020,831000
+LC-2005,12390 Nashua Dr,Frisco,TX,75035,Lexington Country,5,3.5,5327,0.22,2019,1480000
+LC-2006,10705 Alydar Ave,Frisco,TX,75035,Lexington Country,4,4.5,4986,0.35,2021,1475000
+LC-2007,14844 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,4,4.0,2946,0.29,2016,875000
+LC-2008,15955 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,3,3.5,5236,0.21,2020,1388000
+LC-2009,12342 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,5.0,3133,0.24,2021,817000
+LC-2010,10914 Nashua Dr,Frisco,TX,75035,Lexington Country,5,4.5,3422,0.29,2019,891000
+LC-2011,12641 Omaha St,Frisco,TX,75035,Lexington Country,5,5.0,2971,0.26,2019,791000
+LC-2012,15030 Box Elder Ln,Frisco,TX,75035,Lexington Country,6,4.5,4725,0.34,2023,1366000
+LC-2013,14760 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,4.5,4438,0.23,2020,1399000
+LC-2014,10411 Affirmed Ave,Frisco,TX,75035,Lexington Country,4,4.5,3528,0.3,2023,1117000
+LC-2015,14278 Majestic Prince St,Frisco,TX,75035,Lexington Country,5,4.0,5757,0.22,2020,1644000
+LC-2016,13743 Silver Charm Ave,Frisco,TX,75035,Lexington Country,5,4.5,3122,0.3,2019,945000
+LC-2017,12539 Affirmed Ave,Frisco,TX,75035,Lexington Country,5,5.0,5783,0.28,2016,1491000
+LC-2018,13080 Pensive Ave,Frisco,TX,75035,Lexington Country,6,3.5,5510,0.3,2017,1592000
+LC-2019,15624 Alydar Ave,Frisco,TX,75035,Lexington Country,6,3.0,3315,0.18,2019,1053000
+LC-2020,15639 American Pharoah Way,Frisco,TX,75035,Lexington Country,6,3.5,5873,0.33,2018,1603000
+LC-2021,14850 Smarty Jones Way,Frisco,TX,75035,Lexington Country,6,4.0,5368,0.32,2019,1624000
+LC-2022,10824 Deer Trail,Frisco,TX,75035,Lexington Country,6,4.0,4816,0.25,2019,1248000
+LC-2023,14089 Alydar Ave,Frisco,TX,75035,Lexington Country,5,5.5,5754,0.24,2021,1457000
+LC-2024,14644 Alydar Ave,Frisco,TX,75035,Lexington Country,4,4.0,3545,0.19,2017,947000
+LC-2025,14249 Silver Charm Ave,Frisco,TX,75035,Lexington Country,5,3.5,5079,0.25,2017,1479000
+LC-2026,11695 Sir Barton Ave,Frisco,TX,75035,Lexington Country,5,5.0,4693,0.22,2017,1186000
+LC-2027,14829 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,3,3.0,3491,0.21,2019,1050000
+LC-2028,13952 Box Elder Ln,Frisco,TX,75035,Lexington Country,4,5.0,2885,0.19,2017,827000
+LC-2029,15058 Nashua Dr,Frisco,TX,75035,Lexington Country,5,4.5,4458,0.29,2019,1220000
+LC-2030,14893 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,4,5.5,5574,0.33,2022,1640000
+LC-2031,14135 Silver Charm Ave,Frisco,TX,75035,Lexington Country,5,5.5,4483,0.33,2022,1335000
+LC-2032,14159 Citation Dr,Frisco,TX,75035,Lexington Country,4,5.0,4925,0.21,2017,1371000
+LC-2033,14459 Proud Clairon St,Frisco,TX,75035,Lexington Country,6,3.5,3267,0.24,2017,928000
+LC-2034,14425 Justify Ln,Frisco,TX,75035,Lexington Country,6,5.0,4786,0.27,2019,1499000
+LC-2035,14576 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,4,5.0,3308,0.22,2017,972000
+LC-2036,13783 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,6,4.5,4957,0.35,2019,1286000
+LC-2037,15209 Wells Branch,Frisco,TX,75035,Lexington Country,4,3.0,3561,0.19,2016,1134000
+LC-2038,13633 Cavalcade St,Frisco,TX,75035,Lexington Country,6,3.5,5500,0.2,2022,1471000
+LC-2039,13007 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,3,3.5,3976,0.2,2017,1211000
+LC-2040,11998 Whirlaway Dr,Frisco,TX,75035,Lexington Country,5,4.5,4129,0.17,2023,1084000
+LC-2041,12192 Sunday Silence Way,Frisco,TX,75035,Lexington Country,5,4.0,3162,0.3,2017,866000
+LC-2042,14482 War Admiral Ave,Frisco,TX,75035,Lexington Country,5,3.5,3622,0.32,2021,986000
+LC-2043,10766 Smarty Jones Way,Frisco,TX,75035,Lexington Country,5,3.5,5319,0.31,2021,1594000
+LC-2044,11709 Deer Trail,Frisco,TX,75035,Lexington Country,4,5.5,3826,0.31,2021,1105000
+LC-2045,14780 Azra Trail,Frisco,TX,75035,Lexington Country,4,3.0,3204,0.31,2021,925000
+LC-2046,13806 Azra Trail,Frisco,TX,75035,Lexington Country,4,5.5,5065,0.19,2019,1357000
+LC-2047,11975 Sir Barton Ave,Frisco,TX,75035,Lexington Country,4,5.5,4686,0.3,2022,1318000
+LC-2048,14081 Affirmed Ave,Frisco,TX,75035,Lexington Country,3,4.0,3711,0.27,2020,979000
+LC-2049,14692 Spectacular Bid St,Frisco,TX,75035,Lexington Country,3,5.0,5960,0.23,2021,1573000
+LC-2050,13783 Kaufai St,Frisco,TX,75035,Lexington Country,3,5.0,5106,0.21,2017,1383000
+LC-2051,11002 Wintergreen Dr,Frisco,TX,75035,Lexington Country,3,5.0,4575,0.27,2018,1433000
+LC-2052,12179 Nashua Dr,Frisco,TX,75035,Lexington Country,4,5.5,4036,0.26,2018,1178000
+LC-2053,11338 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,4.0,5526,0.3,2018,1731000
+LC-2054,11626 Jonata St,Frisco,TX,75035,Lexington Country,6,3.5,3634,0.35,2019,974000
+LC-2055,11096 Seattle Slew St,Frisco,TX,75035,Lexington Country,5,5.0,5546,0.2,2020,1604000
+LC-2056,10127 Count Fleet Dr,Frisco,TX,75035,Lexington Country,5,5.0,3685,0.25,2017,1085000
+LC-2057,14139 Sir Barton Ave,Frisco,TX,75035,Lexington Country,5,3.5,5554,0.3,2021,1400000
+LC-2058,15554 Wells Branch,Frisco,TX,75035,Lexington Country,4,3.5,5240,0.26,2020,1642000
+LC-2059,11392 Silver Charm St,Frisco,TX,75035,Lexington Country,6,4.5,5759,0.34,2018,1640000
+LC-2060,15641 War Admiral Ave,Frisco,TX,75035,Lexington Country,5,3.5,4272,0.3,2021,1278000
+LC-2061,15343 Swaps Dr,Frisco,TX,75035,Lexington Country,3,4.0,3745,0.31,2017,1161000
+LC-2062,15780 Fusaichi Pegasus Dr,Frisco,TX,75035,Lexington Country,4,3.0,2847,0.27,2016,874000
+LC-2063,13178 Box Elder Ln,Frisco,TX,75035,Lexington Country,6,4.5,4911,0.17,2023,1540000
+LC-2064,10995 Proud Clairon St,Frisco,TX,75035,Lexington Country,4,5.0,5735,0.24,2022,1559000
+LC-2065,14271 Sir Barton Ave,Frisco,TX,75035,Lexington Country,4,3.5,5101,0.17,2020,1473000
+LC-2066,14684 Count Fleet Dr,Frisco,TX,75035,Lexington Country,4,5.0,5954,0.17,2020,1874000
+LC-2067,12599 Secretariat Way,Frisco,TX,75035,Lexington Country,5,5.5,4063,0.34,2021,1192000
+LC-2068,13285 Whirlaway Dr,Frisco,TX,75035,Lexington Country,4,4.5,5458,0.31,2021,1505000
+LC-2069,12834 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,3,5.0,5248,0.3,2023,1418000
+LC-2070,15874 Silver Charm St,Frisco,TX,75035,Lexington Country,5,5.5,4808,0.22,2023,1337000
+LC-2071,13811 Grindstone Ln,Frisco,TX,75035,Lexington Country,6,3.5,3577,0.19,2016,1086000
+LC-2072,14678 Nashua Dr,Frisco,TX,75035,Lexington Country,5,4.0,5319,0.24,2018,1689000
+LC-2073,12206 Bold Ruler Way,Frisco,TX,75035,Lexington Country,4,4.5,4444,0.17,2023,1168000
+LC-2074,13882 Silver Charm Ave,Frisco,TX,75035,Lexington Country,5,3.5,4455,0.16,2019,1208000
+LC-2075,12810 Proud Clairon St,Frisco,TX,75035,Lexington Country,5,5.0,5152,0.21,2019,1321000
+LC-2076,11160 Azra Trail,Frisco,TX,75035,Lexington Country,4,4.5,4381,0.29,2022,1290000
+LC-2077,15132 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,3.5,4936,0.25,2016,1263000
+LC-2078,12545 Wells Branch,Frisco,TX,75035,Lexington Country,5,4.5,5200,0.32,2017,1347000
+LC-2079,15544 Grindstone Ln,Frisco,TX,75035,Lexington Country,3,5.0,5588,0.18,2016,1523000
+LC-2080,15868 Spectacular Bid St,Frisco,TX,75035,Lexington Country,5,5.0,3582,0.32,2021,1022000
+LC-2081,10404 Box Elder Ln,Frisco,TX,75035,Lexington Country,6,4.0,4263,0.31,2020,1221000
+LC-2082,13100 Smarty Jones Way,Frisco,TX,75035,Lexington Country,4,5.0,2988,0.21,2019,860000
+LC-2083,12432 Count Fleet Dr,Frisco,TX,75035,Lexington Country,3,3.5,4383,0.27,2017,1373000
+LC-2084,15830 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,3.0,3430,0.28,2023,919000
+LC-2085,10189 Swaps Dr,Frisco,TX,75035,Lexington Country,4,3.5,3271,0.27,2020,962000
+LC-2086,15685 Majestic Prince St,Frisco,TX,75035,Lexington Country,4,3.0,4840,0.2,2016,1237000
+LC-2087,12418 Funny Cide St,Frisco,TX,75035,Lexington Country,4,4.0,4455,0.25,2023,1399000
+LC-2088,12462 Jonata St,Frisco,TX,75035,Lexington Country,4,3.0,4957,0.21,2019,1297000
+LC-2089,10911 Deer Trail,Frisco,TX,75035,Lexington Country,5,4.5,5016,0.29,2016,1461000
+LC-2090,11465 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,4,4.5,4652,0.16,2018,1361000
+LC-2091,10657 Real Quiet Dr,Frisco,TX,75035,Lexington Country,4,3.5,4597,0.19,2022,1408000
+LC-2092,12226 Sunday Silence Way,Frisco,TX,75035,Lexington Country,3,3.5,4551,0.23,2020,1386000
+LC-2093,15132 Nashua Dr,Frisco,TX,75035,Lexington Country,6,5.0,2834,0.23,2019,869000
+LC-2094,13135 Box Elder Ln,Frisco,TX,75035,Lexington Country,4,4.5,5797,0.21,2020,1463000
+LC-2095,14852 Lexington Ave,Frisco,TX,75035,Lexington Country,5,4.0,4071,0.28,2023,1217000
+LC-2096,13167 Seattle Slew St,Frisco,TX,75035,Lexington Country,5,3.5,3448,0.25,2018,998000
+LC-2097,15900 Deer Trail,Frisco,TX,75035,Lexington Country,4,5.0,5356,0.17,2017,1467000
+LC-2098,12711 Tim Tam Dr,Frisco,TX,75035,Lexington Country,6,4.0,5767,0.19,2019,1561000
+LC-2099,15207 Whirlaway Dr,Frisco,TX,75035,Lexington Country,5,4.0,4557,0.28,2021,1270000
+LC-2100,10235 Nashua Dr,Frisco,TX,75035,Lexington Country,4,5.5,3342,0.16,2019,854000
+LC-2101,15928 Count Fleet Dr,Frisco,TX,75035,Lexington Country,6,5.5,4687,0.26,2017,1216000
+LC-2102,15669 Lexington Ave,Frisco,TX,75035,Lexington Country,4,4.5,4915,0.17,2017,1444000
+LC-2103,14970 Cavalcade St,Frisco,TX,75035,Lexington Country,4,4.0,4747,0.34,2017,1194000
+LC-2104,14590 Nashua Dr,Frisco,TX,75035,Lexington Country,3,3.5,3415,0.2,2023,908000
+LC-2105,13986 Real Quiet Dr,Frisco,TX,75035,Lexington Country,5,5.0,5902,0.32,2022,1784000
+LC-2106,12741 Count Fleet Dr,Frisco,TX,75035,Lexington Country,4,4.5,3113,0.23,2016,958000
+LC-2107,14622 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,4,3.5,5687,0.34,2019,1466000
+LC-2108,11946 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,5,4.5,5812,0.31,2021,1696000
+LC-2109,13971 Swaps Dr,Frisco,TX,75035,Lexington Country,5,4.0,4334,0.16,2020,1228000
+LC-2110,12623 Pensive Ave,Frisco,TX,75035,Lexington Country,3,4.0,3131,0.32,2019,946000
+LC-2111,11383 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,3,4.5,5378,0.22,2023,1375000
+LC-2112,15684 Pensive Ave,Frisco,TX,75035,Lexington Country,5,4.0,5366,0.22,2018,1619000
+LC-2113,15100 Omaha St,Frisco,TX,75035,Lexington Country,6,5.0,4386,0.27,2016,1191000
+LC-2114,14040 Proud Clairon St,Frisco,TX,75035,Lexington Country,6,4.5,5228,0.31,2023,1416000
+LC-2115,13273 Azra Trail,Frisco,TX,75035,Lexington Country,3,4.5,5321,0.3,2017,1414000
+LC-2116,11066 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,4,5.0,5328,0.26,2022,1609000
+LC-2117,13064 Azra Trail,Frisco,TX,75035,Lexington Country,3,5.0,3023,0.27,2016,913000
+LC-2118,15457 Assault St,Frisco,TX,75035,Lexington Country,5,4.0,3993,0.27,2019,1235000
+LC-2119,13985 Alydar Ave,Frisco,TX,75035,Lexington Country,4,5.0,4329,0.26,2020,1330000
+LC-2120,13822 American Pharoah Way,Frisco,TX,75035,Lexington Country,4,4.0,4857,0.3,2023,1281000
+LC-2121,13582 Sunday Silence Way,Frisco,TX,75035,Lexington Country,5,5.0,4246,0.21,2020,1234000
+LC-2122,11199 Assault St,Frisco,TX,75035,Lexington Country,5,5.0,4480,0.32,2020,1418000
+LC-2123,12259 Majestic Prince St,Frisco,TX,75035,Lexington Country,6,5.0,4832,0.24,2021,1468000
+LC-2124,12930 Swaps Dr,Frisco,TX,75035,Lexington Country,4,5.5,3739,0.3,2023,1003000
+LC-2125,14642 Cavalcade St,Frisco,TX,75035,Lexington Country,5,3.5,3418,0.23,2017,1037000
+LC-2126,15092 Sunday Silence Way,Frisco,TX,75035,Lexington Country,3,4.5,2966,0.3,2023,794000
+LC-2127,13789 Lexington Ave,Frisco,TX,75035,Lexington Country,5,5.0,3232,0.29,2023,1001000
+LC-2128,15989 Seattle Slew St,Frisco,TX,75035,Lexington Country,6,4.5,4099,0.35,2017,1088000
+LC-2129,12986 Sir Barton Ave,Frisco,TX,75035,Lexington Country,3,5.0,5613,0.25,2021,1610000
+LC-2130,13676 Swaps Dr,Frisco,TX,75035,Lexington Country,6,4.0,4091,0.23,2023,1045000
+LC-2131,11397 Cavalcade St,Frisco,TX,75035,Lexington Country,3,5.0,3389,0.19,2017,988000
+LC-2132,15250 Wells Branch,Frisco,TX,75035,Lexington Country,5,3.5,3045,0.19,2018,902000
+LC-2133,13305 Citation Dr,Frisco,TX,75035,Lexington Country,4,5.0,5467,0.22,2017,1497000
+LC-2134,11635 Secretariat Way,Frisco,TX,75035,Lexington Country,5,3.5,3959,0.3,2017,1215000
+LC-2135,10623 Whirlaway Dr,Frisco,TX,75035,Lexington Country,6,4.5,6000,0.22,2020,1717000
+LC-2136,13675 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,6,4.5,3314,0.17,2020,1042000
+LC-2137,13149 Bally Ache Ln,Frisco,TX,75035,Lexington Country,4,3.5,5570,0.29,2017,1568000
+LC-2138,13502 Kaufai St,Frisco,TX,75035,Lexington Country,5,4.5,5957,0.35,2023,1689000
+LC-2139,15736 Swaps Dr,Frisco,TX,75035,Lexington Country,4,4.5,5108,0.31,2021,1280000
+LC-2140,13512 Kaufai St,Frisco,TX,75035,Lexington Country,5,5.0,4006,0.19,2022,1077000
+LC-2141,10333 Nashua Dr,Frisco,TX,75035,Lexington Country,5,3.0,4924,0.29,2022,1393000
+LC-2142,14743 Grindstone Ln,Frisco,TX,75035,Lexington Country,5,3.5,4263,0.3,2016,1074000
+LC-2143,14285 Whirlaway Dr,Frisco,TX,75035,Lexington Country,4,5.0,2871,0.32,2020,752000
+LC-2144,14241 Tim Tam Dr,Frisco,TX,75035,Lexington Country,4,5.0,4938,0.23,2018,1360000
+LC-2145,10389 Cavalcade St,Frisco,TX,75035,Lexington Country,6,5.0,3303,0.23,2021,1049000
+LC-2146,15895 Kaufai St,Frisco,TX,75035,Lexington Country,3,4.0,4800,0.29,2016,1495000
+LC-2147,14600 Wells Branch,Frisco,TX,75035,Lexington Country,6,4.0,5054,0.29,2021,1413000
+LC-2148,15541 Deer Trail,Frisco,TX,75035,Lexington Country,6,3.0,5969,0.24,2018,1544000
+LC-2149,10672 Pensive Ave,Frisco,TX,75035,Lexington Country,5,5.0,4311,0.28,2017,1173000
+LC-2150,14725 Citation Dr,Frisco,TX,75035,Lexington Country,5,4.5,5549,0.31,2022,1692000
+LC-2151,14461 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,6,5.0,3513,0.27,2023,1077000
+LC-2152,15536 Majestic Prince St,Frisco,TX,75035,Lexington Country,4,3.5,4444,0.19,2016,1224000
+LC-2153,12943 Charismatic Pkwy,Frisco,TX,75035,Lexington Country,3,5.0,4997,0.31,2023,1291000
+LC-2154,10424 Count Fleet Dr,Frisco,TX,75035,Lexington Country,3,3.5,3110,0.21,2019,954000
+LC-2155,10948 Assault St,Frisco,TX,75035,Lexington Country,6,3.0,3526,0.24,2020,915000
+LC-2156,15716 Smarty Jones Way,Frisco,TX,75035,Lexington Country,5,3.0,3972,0.23,2021,1120000
+LC-2157,13819 Tim Tam Dr,Frisco,TX,75035,Lexington Country,6,5.0,5478,0.3,2017,1541000
+LC-2158,14571 Count Fleet Dr,Frisco,TX,75035,Lexington Country,5,4.0,5179,0.34,2022,1616000
+LC-2159,12164 Whirlaway Dr,Frisco,TX,75035,Lexington Country,4,4.0,4284,0.33,2016,1178000
+LC-2160,10448 American Pharoah Way,Frisco,TX,75035,Lexington Country,5,3.0,5212,0.23,2022,1341000
+LC-2161,14852 Sunday Silence Way,Frisco,TX,75035,Lexington Country,5,3.5,4857,0.29,2020,1511000
+LC-2162,11771 Silver Charm St,Frisco,TX,75035,Lexington Country,5,4.5,3589,0.29,2016,1133000
+LC-2163,14748 Silver Charm St,Frisco,TX,75035,Lexington Country,6,3.0,3315,0.29,2021,948000
+LC-2164,15028 War Admiral Ave,Frisco,TX,75035,Lexington Country,3,3.5,5030,0.31,2016,1312000
+LC-2165,13112 Wells Branch,Frisco,TX,75035,Lexington Country,4,5.0,5539,0.16,2023,1601000
+LC-2166,13376 Box Elder Ln,Frisco,TX,75035,Lexington Country,6,4.5,5393,0.32,2018,1596000
+LC-2167,15225 Count Fleet Dr,Frisco,TX,75035,Lexington Country,4,5.5,3118,0.21,2023,945000
+LC-2168,13608 Seattle Slew St,Frisco,TX,75035,Lexington Country,4,4.5,4091,0.35,2016,1187000
+LC-2169,12900 Assault St,Frisco,TX,75035,Lexington Country,6,5.0,5573,0.23,2018,1700000
+LC-2170,11077 Secretariat Way,Frisco,TX,75035,Lexington Country,6,4.0,5255,0.25,2018,1476000
+LC-2171,12861 Real Quiet Dr,Frisco,TX,75035,Lexington Country,4,5.5,5885,0.3,2021,1813000
+LC-2172,13785 Jonata St,Frisco,TX,75035,Lexington Country,3,4.0,3109,0.25,2020,859000
+LC-2173,10227 Assault St,Frisco,TX,75035,Lexington Country,3,3.5,4871,0.27,2019,1335000
+LC-2174,12250 Citation Dr,Frisco,TX,75035,Lexington Country,5,4.5,4117,0.31,2017,1246000
+LC-2175,11010 Silver Charm St,Frisco,TX,75035,Lexington Country,4,4.0,5987,0.29,2021,1844000
+LC-2176,10888 Azra Trail,Frisco,TX,75035,Lexington Country,4,3.5,3942,0.24,2019,1076000
+LC-2177,13736 Funny Cide St,Frisco,TX,75035,Lexington Country,5,5.0,5234,0.24,2020,1436000
+LC-2178,10448 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,5,4.5,5545,0.3,2020,1529000
+LC-2179,15140 Omaha St,Frisco,TX,75035,Lexington Country,4,4.5,5649,0.21,2023,1600000
+LC-2180,14918 Justify Ln,Frisco,TX,75035,Lexington Country,6,5.0,3547,0.31,2020,1121000
+LC-2181,15611 Sunday Silence Way,Frisco,TX,75035,Lexington Country,3,3.0,5724,0.32,2021,1476000
+LC-2182,11005 Real Quiet Dr,Frisco,TX,75035,Lexington Country,3,3.5,5276,0.23,2017,1482000
+LC-2183,10889 Jonata St,Frisco,TX,75035,Lexington Country,5,4.5,3049,0.22,2016,913000
+LC-2184,13881 Jonata St,Frisco,TX,75035,Lexington Country,5,3.0,3944,0.31,2016,1013000
+LC-2185,11400 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,5,4.5,5363,0.35,2018,1648000
+LC-2186,11592 Tim Tam Dr,Frisco,TX,75035,Lexington Country,5,3.5,5130,0.21,2017,1405000
+LC-2187,13527 Justify Ln,Frisco,TX,75035,Lexington Country,4,4.5,3999,0.26,2017,1038000
+LC-2188,11822 Gallant Fox Dr,Frisco,TX,75035,Lexington Country,4,4.5,2913,0.28,2022,877000
+LC-2189,10641 Assault St,Frisco,TX,75035,Lexington Country,6,5.0,4183,0.19,2023,1257000
+LC-2190,13894 American Pharoah Way,Frisco,TX,75035,Lexington Country,4,5.0,5216,0.17,2016,1458000
+LC-2191,13292 Funny Cide St,Frisco,TX,75035,Lexington Country,5,4.5,5713,0.24,2018,1784000
+LC-2192,12627 Swaps Dr,Frisco,TX,75035,Lexington Country,3,4.5,4098,0.26,2016,1220000
+LC-2193,11064 Pensive Ave,Frisco,TX,75035,Lexington Country,4,3.5,5021,0.2,2020,1376000
+LC-2194,14466 Azra Trail,Frisco,TX,75035,Lexington Country,6,4.0,3527,0.24,2019,1031000
+LC-2195,14123 Deer Trail,Frisco,TX,75035,Lexington Country,5,4.5,3891,0.21,2020,1214000
+LC-2196,13477 Smarty Jones Way,Frisco,TX,75035,Lexington Country,4,5.0,5497,0.33,2023,1536000
+LC-2197,12528 Secretariat Way,Frisco,TX,75035,Lexington Country,5,3.0,3195,0.26,2017,981000
+LC-2198,15571 Assault St,Frisco,TX,75035,Lexington Country,5,5.0,5990,0.29,2023,1798000
+LC-2199,11905 Wells Branch,Frisco,TX,75035,Lexington Country,5,3.0,4401,0.22,2017,1351000
+LC-2200,10203 Riva Ridge Rd,Frisco,TX,75035,Lexington Country,3,4.5,3539,0.31,2018,927000

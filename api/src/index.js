@@ -33,13 +33,18 @@ export default {
         }
         
         const arcGisUrl = new URL('https://services2.arcgis.com/uXyoacYrZTPTKD3R/arcgis/rest/services/CCAD_Parcel_Feature_Set/FeatureServer/4/query');
-        arcGisUrl.searchParams.append('where', `situsZip = '75035'`);
+        arcGisUrl.searchParams.append('where', `situsConcat LIKE '%75035%'`);
         arcGisUrl.searchParams.append('outFields', 'situsConcat,legalAbsSubName');
         arcGisUrl.searchParams.append('f', 'json');
         arcGisUrl.searchParams.append('resultRecordCount', '15');
 
         const res = await fetch(arcGisUrl.toString());
         const data = await res.json();
+        
+        // Return errors for debugging if CCAD fails
+        if (data.error) {
+          return new Response(JSON.stringify({ error: data.error }), { status: 400, headers: corsHeaders });
+        }
         
         const statuses = ['Approved', 'Pending Review', 'Needs Revision'];
         const insertPromises = [];
