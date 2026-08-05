@@ -16,9 +16,7 @@ export default {
 
     if (url.pathname === '/api/permits' && request.method === 'GET') {
       try {
-        if (!env.DB) {
-          return new Response(JSON.stringify({ error: "Database not configured" }), { status: 500, headers: corsHeaders });
-        }
+        if (!env.DB) return new Response(JSON.stringify({ error: "Database not configured" }), { status: 500, headers: corsHeaders });
         const { results } = await env.DB.prepare("SELECT * FROM permits ORDER BY created_at DESC").all();
         return new Response(JSON.stringify(results), { headers: { ...corsHeaders, "Content-Type": "application/json" } });
       } catch (e) {
@@ -26,51 +24,19 @@ export default {
       }
     }
 
-    if (url.pathname === '/api/seed' && request.method === 'GET') {
+    if (url.pathname === '/api/properties' && request.method === 'GET') {
       try {
-        if (!env.DB) {
-          return new Response(JSON.stringify({ error: "Database not configured" }), { status: 500, headers: corsHeaders });
-        }
-        
-        const arcGisUrl = new URL('https://services2.arcgis.com/uXyoacYrZTPTKD3R/arcgis/rest/services/CCAD_Parcel_Feature_Set/FeatureServer/4/query');
-        arcGisUrl.searchParams.append('where', `situsConcat LIKE '%75035%'`);
-        arcGisUrl.searchParams.append('outFields', 'situsConcat,legalAbsSubName');
-        arcGisUrl.searchParams.append('f', 'json');
-        arcGisUrl.searchParams.append('resultRecordCount', '15');
-
-        const res = await fetch(arcGisUrl.toString());
-        const data = await res.json();
-        
-        // Return errors for debugging if CCAD fails
-        if (data.error) {
-          return new Response(JSON.stringify({ error: data.error }), { status: 400, headers: corsHeaders });
-        }
-        
-        const statuses = ['Approved', 'Pending Review', 'Needs Revision'];
-        const insertPromises = [];
-
-        if (data.features) {
-          for (let i = 0; i < data.features.length; i++) {
-            const feature = data.features[i];
-            const address = feature.attributes.situsConcat || 'Unknown Address';
-            const hoa = feature.attributes.legalAbsSubName || 'Unknown HOA';
-            const status = statuses[i % statuses.length];
-            const days = Math.floor(Math.random() * 20) + 1;
-            const id = `PMT-2024-${100 + i}`;
-            
-            insertPromises.push(
-              env.DB.prepare("INSERT OR REPLACE INTO permits (id, address, status, hoa, days) VALUES (?, ?, ?, ?, ?)")
-                .bind(id, address, status, hoa, days)
-                .run()
-            );
-          }
-          await Promise.all(insertPromises);
-        }
-        
-        return new Response(JSON.stringify({ success: true, message: `Seeded ${insertPromises.length} permits` }), { headers: { ...corsHeaders, "Content-Type": "application/json" } });
+        if (!env.DB) return new Response(JSON.stringify({ error: "Database not configured" }), { status: 500, headers: corsHeaders });
+        // Return properties for the dashboard
+        const { results } = await env.DB.prepare("SELECT * FROM properties LIMIT 100").all();
+        return new Response(JSON.stringify(results), { headers: { ...corsHeaders, "Content-Type": "application/json" } });
       } catch (e) {
         return new Response(JSON.stringify({ error: e.message }), { status: 500, headers: corsHeaders });
       }
+    }
+
+    if (url.pathname === '/api/seed' && request.method === 'GET') {
+      return new Response(JSON.stringify({ success: true, message: "Seed endpoint deprecated. We use real data now." }), { headers: { ...corsHeaders, "Content-Type": "application/json" } });
     }
 
     if (url.pathname === '/api/calculate' && request.method === 'POST') {
@@ -81,47 +47,54 @@ export default {
         let parcelAreaSqFt = 0;
         let matchedAddress = "Not Found";
 
-        // Query the real Collin CAD (CCAD) GIS REST API
         if (address && address.trim() !== '') {
-          // Normalize input
           const searchAddr = address.toUpperCase().trim();
-          const arcGisUrl = new URL('https://services2.arcgis.com/uXyoacYrZTPTKD3R/arcgis/rest/services/CCAD_Parcel_Feature_Set/FeatureServer/4/query');
-          arcGisUrl.searchParams.append('where', `situsConcat LIKE '%${searchAddr}%'`);
-          arcGisUrl.searchParams.append('outFields', 'situsConcat,landSizeSqft,landSizeAcres');
-          arcGisUrl.searchParams.append('f', 'json');
-          arcGisUrl.searchParams.append('resultRecordCount', '1');
+          
+          // First try our own DB
+          if (env.DB) {
+            const { results } = await env.DB.prepare("SELECT * FROM properties WHERE UPPER(address) LIKE ? LIMIT 1").bind(`%${searchAddr}%`).all();
+            if (results && results.length > 0) {
+               matchedAddress = results[0].address;
+               if (results[0].lot_size_acres) {
+                   parcelAreaSqFt = results[0].lot_size_acres * 43560;
+               }
+            }
+          }
 
-          const gisResponse = await fetch(arcGisUrl.toString());
-          if (gisResponse.ok) {
-            const data = await gisResponse.json();
-            if (data.features && data.features.length > 0) {
-              const feature = data.features[0];
-              matchedAddress = feature.attributes.situsConcat || address;
-              
-              if (feature.attributes.landSizeSqft) {
-                parcelAreaSqFt = parseFloat(feature.attributes.landSizeSqft);
-              } else if (feature.attributes.landSizeAcres) {
-                parcelAreaSqFt = parseFloat(feature.attributes.landSizeAcres) * 43560;
+          // Fallback to CCAD GIS REST API if not found
+          if (parcelAreaSqFt === 0) {
+            const arcGisUrl = new URL('https://services2.arcgis.com/uXyoacYrZTPTKD3R/arcgis/rest/services/CCAD_Parcel_Feature_Set/FeatureServer/4/query');
+            arcGisUrl.searchParams.append('where', `situsConcat LIKE '%${searchAddr}%'`);
+            arcGisUrl.searchParams.append('outFields', 'situsConcat,landSizeSqft,landSizeAcres');
+            arcGisUrl.searchParams.append('f', 'json');
+            arcGisUrl.searchParams.append('resultRecordCount', '1');
+
+            const gisResponse = await fetch(arcGisUrl.toString());
+            if (gisResponse.ok) {
+              const data = await gisResponse.json();
+              if (data.features && data.features.length > 0) {
+                const feature = data.features[0];
+                matchedAddress = feature.attributes.situsConcat || address;
+                
+                if (feature.attributes.landSizeSqft) {
+                  parcelAreaSqFt = parseFloat(feature.attributes.landSizeSqft);
+                } else if (feature.attributes.landSizeAcres) {
+                  parcelAreaSqFt = parseFloat(feature.attributes.landSizeAcres) * 43560;
+                }
               }
             }
           }
         }
 
-        // If we didn't find anything or empty address, fallback to a standard lot size
+        // Default fallback lot size
         if (parcelAreaSqFt === 0) parcelAreaSqFt = 10000;
         
-        // Frisco typical rules
-        // Max Impervious Cover: typically 50% for standard residential
+        // Max Impervious Cover
         const maxImperviousArea = Math.round(parcelAreaSqFt * 0.5);
-        const currentImperviousArea = parseFloat(primaryStructureArea) + parseFloat(drivewayArea);
+        const currentImperviousArea = parseFloat(primaryStructureArea || 0) + parseFloat(drivewayArea || 0);
         const availableImperviousArea = Math.round(maxImperviousArea - currentImperviousArea);
         
-        // Standard setbacks
-        const setbacks = {
-          front: 25,
-          rear: 15,
-          side: 7
-        };
+        const setbacks = { front: 25, rear: 15, side: 7 };
 
         return new Response(JSON.stringify({
           success: true,
@@ -134,9 +107,7 @@ export default {
             available: availableImperviousArea > 0 ? availableImperviousArea : 0,
             status: availableImperviousArea >= 0 ? "Compliant" : "Exceeds Limits"
           }
-        }), { 
-          headers: { ...corsHeaders, "Content-Type": "application/json" } 
-        });
+        }), { headers: { ...corsHeaders, "Content-Type": "application/json" } });
       } catch (e) {
         return new Response(JSON.stringify({ error: e.message }), { status: 400, headers: corsHeaders });
       }
@@ -150,6 +121,25 @@ export default {
         }
 
         const searchAddr = address.toUpperCase().trim();
+        let result = { found: false };
+
+        // 1. Check local DB properties table
+        if (env.DB) {
+          const { results } = await env.DB.prepare("SELECT * FROM properties WHERE UPPER(address) LIKE ? LIMIT 1").bind(`%${searchAddr}%`).all();
+          if (results && results.length > 0) {
+             const row = results[0];
+             let parcelAreaSqFt = row.lot_size_acres ? row.lot_size_acres * 43560 : 0;
+             result = {
+               found: true,
+               matchedAddress: row.address,
+               parcelAreaSqFt: Math.round(parcelAreaSqFt),
+               primaryStructureArea: row.square_feet ? Math.round(row.square_feet) : 0
+             };
+             return new Response(JSON.stringify(result), { headers: { ...corsHeaders, "Content-Type": "application/json" } });
+          }
+        }
+
+        // 2. Fallback to CCAD GIS API
         const arcGisUrl = new URL('https://services2.arcgis.com/uXyoacYrZTPTKD3R/arcgis/rest/services/CCAD_Parcel_Feature_Set/FeatureServer/4/query');
         arcGisUrl.searchParams.append('where', `situsConcat LIKE '%${searchAddr}%'`);
         arcGisUrl.searchParams.append('outFields', 'situsConcat,landSizeSqft,landSizeAcres,imprvMainArea');
@@ -157,8 +147,6 @@ export default {
         arcGisUrl.searchParams.append('resultRecordCount', '1');
 
         const gisResponse = await fetch(arcGisUrl.toString());
-        let result = { found: false };
-
         if (gisResponse.ok) {
           const data = await gisResponse.json();
           if (data.features && data.features.length > 0) {
