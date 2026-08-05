@@ -19,7 +19,7 @@ export default function SetbackCalculator() {
     // Here we'll simulate the worker logic locally directly if the fetch fails.
     try {
       // Call the deployed Cloudflare Worker API
-      const response = await fetch('https://permitpulse-api.kolipakula.workers.dev/api/calculate', {
+      const response = await fetch('https://permitpulse.kolipakula.workers.dev/api/calculate', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
